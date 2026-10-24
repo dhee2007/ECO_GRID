@@ -1,0 +1,10 @@
+{
+    "hourly_input_records": 23192,
+    "manual_input_records": 415,
+    "daily_reference_records": 960,
+    "fused_daily_records": 960,
+    "delayed_hourly_records": 296,
+    "reference_fallbacks": 4,
+    "conflicting_measurements": 6,
+    "fully_missing_streams": 0
+}

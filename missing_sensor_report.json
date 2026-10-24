@@ -1,0 +1,21 @@
+{
+    "total_test_events": 1601,
+    "events_with_missing_values": 165,
+    "original_complete_events": 1436,
+    "missing_values_by_feature": {
+        "transparency": 42,
+        "acoustic_hardness": 35,
+        "metal_signal": 33,
+        "weight_g": 31,
+        "moisture_pct": 29
+    },
+    "training_medians": {
+        "weight_g": 122.0,
+        "moisture_pct": 11.5,
+        "metal_signal": 5.3,
+        "transparency": 0.1,
+        "acoustic_hardness": 0.24
+    },
+    "method": "Training-set median imputation",
+    "note": "Missing numeric sensor values are replaced with medians calculated from training records. Imputed events are flagged and predictions should be treated as lower confidence."
+}

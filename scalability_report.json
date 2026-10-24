@@ -1,0 +1,11 @@
+{
+    "source_buildings": 8,
+    "simulated_buildings": 30,
+    "total_sensor_records": 86978,
+    "simulated_offline_events": 4350,
+    "simulated_noisy_events": 8800,
+    "simulated_buffer_recoveries": 4350,
+    "processing_seconds": 0.3634,
+    "records_per_second": 239351.13,
+    "note": "Synthetic 30-building workload generated from existing building data. Offline recovery is simulated through status labels; this does not validate real network recovery."
+}

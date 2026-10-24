@@ -1,0 +1,2161 @@
+Building,Hour,Time_of_Day,Electricity,Water,Waste
+Academic Block,0,0,50,78,2
+Academic Block,1,1,27,112,9
+Academic Block,2,2,18,76,19
+Academic Block,3,3,15,158,3
+Academic Block,4,4,11,73,8
+Academic Block,5,5,24,179,2
+Academic Block,6,6,45,100,19
+Academic Block,7,7,36,106,16
+Academic Block,8,8,47,121,2
+Academic Block,9,9,35,158,12
+Academic Block,10,10,42,89,8
+Academic Block,11,11,46,76,4
+Academic Block,12,12,49,74,13
+Academic Block,13,13,47,117,3
+Academic Block,14,14,54,187,5
+Academic Block,15,15,49,70,19
+Academic Block,16,16,43,142,20
+Academic Block,17,17,37,67,3
+Academic Block,18,18,24,124,4
+Academic Block,19,19,24,75,14
+Academic Block,20,20,27,166,13
+Academic Block,21,21,20,144,13
+Academic Block,22,22,23,118,4
+Academic Block,23,23,48,93,19
+Academic Block,24,0,25,91,16
+Academic Block,25,1,34,119,19
+Academic Block,26,2,24,133,3
+Academic Block,27,3,24,58,12
+Academic Block,28,4,35,118,4
+Academic Block,29,5,23,195,12
+Academic Block,30,6,23,177,14
+Academic Block,31,7,39,86,10
+Academic Block,32,8,18,113,19
+Academic Block,33,9,59,117,20
+Academic Block,34,10,52,199,14
+Academic Block,35,11,48,106,6
+Academic Block,36,12,57,176,4
+Academic Block,37,13,28,78,6
+Academic Block,38,14,65,90,15
+Academic Block,39,15,63,66,14
+Academic Block,40,16,49,169,18
+Academic Block,41,17,41,191,2
+Academic Block,42,18,17,187,10
+Academic Block,43,19,31,78,11
+Academic Block,44,20,37,90,16
+Academic Block,45,21,10,117,18
+Academic Block,46,22,21,179,5
+Academic Block,47,23,50,126,18
+Academic Block,48,0,48,100,6
+Academic Block,49,1,33,91,19
+Academic Block,50,2,43,50,12
+Academic Block,51,3,41,54,5
+Academic Block,52,4,33,128,9
+Academic Block,53,5,13,111,20
+Academic Block,54,6,15,71,17
+Academic Block,55,7,14,186,6
+Academic Block,56,8,18,171,19
+Academic Block,57,9,35,117,18
+Academic Block,58,10,63,158,8
+Academic Block,59,11,59,101,11
+Academic Block,60,12,50,145,16
+Academic Block,61,13,58,165,5
+Academic Block,62,14,40,107,4
+Academic Block,63,15,46,55,20
+Academic Block,64,16,60,108,20
+Academic Block,65,17,39,51,4
+Academic Block,66,18,50,65,9
+Academic Block,67,19,14,58,12
+Academic Block,68,20,14,181,9
+Academic Block,69,21,27,174,8
+Academic Block,70,22,44,83,20
+Academic Block,71,23,46,171,9
+Academic Block,72,0,40,154,8
+Academic Block,73,1,16,74,15
+Academic Block,74,2,32,158,15
+Academic Block,75,3,39,63,5
+Academic Block,76,4,13,153,12
+Academic Block,77,5,16,113,8
+Academic Block,78,6,22,187,16
+Academic Block,79,7,18,158,7
+Academic Block,80,8,27,168,9
+Academic Block,81,9,29,163,19
+Academic Block,82,10,31,62,19
+Academic Block,83,11,25,73,9
+Academic Block,84,12,35,154,17
+Academic Block,85,13,55,104,14
+Academic Block,86,14,28,92,14
+Academic Block,87,15,25,149,10
+Academic Block,88,16,54,123,15
+Academic Block,89,17,60,174,6
+Academic Block,90,18,22,125,8
+Academic Block,91,19,13,198,19
+Academic Block,92,20,13,130,3
+Academic Block,93,21,13,199,17
+Academic Block,94,22,42,185,7
+Academic Block,95,23,13,180,4
+Academic Block,96,0,21,67,4
+Academic Block,97,1,25,153,5
+Academic Block,98,2,46,113,20
+Academic Block,99,3,48,60,4
+Academic Block,100,4,36,199,20
+Academic Block,101,5,43,130,10
+Academic Block,102,6,23,130,9
+Academic Block,103,7,26,151,6
+Academic Block,104,8,29,167,12
+Academic Block,105,9,29,52,16
+Academic Block,106,10,64,194,5
+Academic Block,107,11,29,187,8
+Academic Block,108,12,57,117,6
+Academic Block,109,13,47,67,9
+Academic Block,110,14,48,122,7
+Academic Block,111,15,53,189,11
+Academic Block,112,16,64,185,2
+Academic Block,113,17,60,126,5
+Academic Block,114,18,18,117,5
+Academic Block,115,19,16,191,6
+Academic Block,116,20,27,122,8
+Academic Block,117,21,31,102,10
+Academic Block,118,22,42,175,10
+Academic Block,119,23,13,73,15
+Academic Block,120,0,27,61,2
+Academic Block,121,1,31,83,10
+Academic Block,122,2,20,163,19
+Academic Block,123,3,37,193,2
+Academic Block,124,4,17,69,6
+Academic Block,125,5,44,59,13
+Academic Block,126,6,47,191,6
+Academic Block,127,7,37,82,3
+Academic Block,128,8,29,143,3
+Academic Block,129,9,47,103,9
+Academic Block,130,10,31,140,19
+Academic Block,131,11,51,89,9
+Academic Block,132,12,35,95,15
+Academic Block,133,13,26,95,12
+Academic Block,134,14,51,113,10
+Academic Block,135,15,35,77,14
+Academic Block,136,16,27,170,9
+Academic Block,137,17,37,167,13
+Academic Block,138,18,29,108,9
+Academic Block,139,19,11,99,14
+Academic Block,140,20,31,121,4
+Academic Block,141,21,27,139,18
+Academic Block,142,22,35,187,12
+Academic Block,143,23,11,79,10
+Academic Block,144,0,21,198,10
+Academic Block,145,1,12,77,15
+Academic Block,146,2,32,130,15
+Academic Block,147,3,48,180,5
+Academic Block,148,4,34,197,8
+Academic Block,149,5,26,61,15
+Academic Block,150,6,10,183,19
+Academic Block,151,7,22,143,15
+Academic Block,152,8,14,134,12
+Academic Block,153,9,32,126,18
+Academic Block,154,10,44,154,12
+Academic Block,155,11,50,125,19
+Academic Block,156,12,33,99,15
+Academic Block,157,13,49,94,20
+Academic Block,158,14,44,153,19
+Academic Block,159,15,25,127,11
+Academic Block,160,16,38,160,20
+Academic Block,161,17,63,132,16
+Academic Block,162,18,38,163,8
+Academic Block,163,19,42,171,7
+Academic Block,164,20,15,122,18
+Academic Block,165,21,50,135,4
+Academic Block,166,22,25,129,9
+Academic Block,167,23,22,87,2
+Academic Block,168,0,12,112,17
+Academic Block,169,1,49,68,16
+Academic Block,170,2,36,197,8
+Academic Block,171,3,34,176,14
+Academic Block,172,4,25,87,2
+Academic Block,173,5,16,158,9
+Academic Block,174,6,21,182,16
+Academic Block,175,7,13,192,9
+Academic Block,176,8,17,166,6
+Academic Block,177,9,54,185,19
+Academic Block,178,10,63,131,16
+Academic Block,179,11,64,179,15
+Academic Block,180,12,60,164,7
+Academic Block,181,13,55,165,10
+Academic Block,182,14,40,120,18
+Academic Block,183,15,56,111,10
+Academic Block,184,16,53,69,11
+Academic Block,185,17,40,119,12
+Academic Block,186,18,30,188,4
+Academic Block,187,19,18,88,9
+Academic Block,188,20,34,89,8
+Academic Block,189,21,14,156,15
+Academic Block,190,22,31,188,16
+Academic Block,191,23,36,65,8
+Academic Block,192,0,36,149,20
+Academic Block,193,1,11,197,14
+Academic Block,194,2,40,51,13
+Academic Block,195,3,29,149,15
+Academic Block,196,4,44,189,9
+Academic Block,197,5,41,106,10
+Academic Block,198,6,37,174,2
+Academic Block,199,7,34,136,14
+Academic Block,200,8,20,169,6
+Academic Block,201,9,64,186,2
+Academic Block,202,10,50,194,2
+Academic Block,203,11,30,159,6
+Academic Block,204,12,54,96,3
+Academic Block,205,13,41,147,12
+Academic Block,206,14,38,166,12
+Academic Block,207,15,46,147,10
+Academic Block,208,16,51,114,4
+Academic Block,209,17,55,54,19
+Academic Block,210,18,13,139,9
+Academic Block,211,19,14,60,2
+Academic Block,212,20,25,101,2
+Academic Block,213,21,49,89,9
+Academic Block,214,22,18,171,5
+Academic Block,215,23,46,105,16
+Academic Block,216,0,26,144,7
+Academic Block,217,1,48,79,7
+Academic Block,218,2,29,77,20
+Academic Block,219,3,11,129,20
+Academic Block,220,4,34,151,8
+Academic Block,221,5,14,112,5
+Academic Block,222,6,29,80,20
+Academic Block,223,7,12,138,19
+Academic Block,224,8,37,144,4
+Academic Block,225,9,57,137,2
+Academic Block,226,10,51,175,5
+Academic Block,227,11,52,142,16
+Academic Block,228,12,34,161,7
+Academic Block,229,13,58,119,19
+Academic Block,230,14,55,169,15
+Academic Block,231,15,62,118,12
+Academic Block,232,16,40,72,10
+Academic Block,233,17,53,112,16
+Academic Block,234,18,46,147,12
+Academic Block,235,19,11,176,12
+Academic Block,236,20,21,174,8
+Academic Block,237,21,32,116,12
+Academic Block,238,22,27,120,19
+Academic Block,239,23,10,182,8
+Academic Block,240,0,15,111,15
+Academic Block,241,1,41,192,9
+Academic Block,242,2,40,175,16
+Academic Block,243,3,11,73,11
+Academic Block,244,4,24,153,9
+Academic Block,245,5,29,198,13
+Academic Block,246,6,40,191,18
+Academic Block,247,7,32,158,19
+Academic Block,248,8,31,140,16
+Academic Block,249,9,42,128,10
+Academic Block,250,10,39,80,8
+Academic Block,251,11,45,80,19
+Academic Block,252,12,36,99,8
+Academic Block,253,13,55,120,20
+Academic Block,254,14,58,122,5
+Academic Block,255,15,37,125,9
+Academic Block,256,16,48,95,11
+Academic Block,257,17,25,186,6
+Academic Block,258,18,27,61,3
+Academic Block,259,19,45,124,6
+Academic Block,260,20,50,175,5
+Academic Block,261,21,10,196,11
+Academic Block,262,22,40,172,16
+Academic Block,263,23,31,97,3
+Academic Block,264,0,26,172,5
+Academic Block,265,1,14,152,17
+Academic Block,266,2,14,197,3
+Academic Block,267,3,19,88,20
+Academic Block,268,4,29,71,9
+Academic Block,269,5,17,192,15
+Academic Block,270,6,48,107,18
+Academic Block,271,7,34,165,16
+Academic Block,272,8,29,200,15
+Academic Block,273,9,44,195,3
+Academic Block,274,10,64,75,8
+Academic Block,275,11,65,104,10
+Academic Block,276,12,30,90,9
+Academic Block,277,13,36,191,4
+Academic Block,278,14,35,50,15
+Academic Block,279,15,53,170,11
+Academic Block,280,16,27,109,11
+Academic Block,281,17,43,166,4
+Academic Block,282,18,24,117,20
+Academic Block,283,19,22,158,5
+Academic Block,284,20,44,107,6
+Academic Block,285,21,27,86,4
+Academic Block,286,22,13,92,11
+Academic Block,287,23,48,195,11
+Academic Block,288,0,38,81,16
+Academic Block,289,1,29,153,10
+Academic Block,290,2,42,188,17
+Academic Block,291,3,38,70,3
+Academic Block,292,4,37,132,10
+Academic Block,293,5,11,73,9
+Academic Block,294,6,46,200,2
+Academic Block,295,7,27,197,3
+Academic Block,296,8,21,170,18
+Academic Block,297,9,53,121,7
+Academic Block,298,10,62,161,17
+Academic Block,299,11,30,170,13
+Academic Block,300,12,51,135,12
+Academic Block,301,13,31,91,12
+Academic Block,302,14,51,176,11
+Academic Block,303,15,50,190,3
+Academic Block,304,16,54,72,12
+Academic Block,305,17,41,132,5
+Academic Block,306,18,35,181,2
+Academic Block,307,19,44,168,15
+Academic Block,308,20,13,98,18
+Academic Block,309,21,33,177,16
+Academic Block,310,22,13,102,10
+Academic Block,311,23,45,83,11
+Academic Block,312,0,38,174,5
+Academic Block,313,1,11,111,7
+Academic Block,314,2,29,191,2
+Academic Block,315,3,45,154,4
+Academic Block,316,4,24,79,16
+Academic Block,317,5,17,89,17
+Academic Block,318,6,28,180,10
+Academic Block,319,7,36,173,17
+Academic Block,320,8,25,166,19
+Academic Block,321,9,34,148,8
+Academic Block,322,10,63,180,6
+Academic Block,323,11,29,120,15
+Academic Block,324,12,46,179,10
+Academic Block,325,13,25,122,11
+Academic Block,326,14,62,198,17
+Academic Block,327,15,34,164,19
+Academic Block,328,16,55,138,12
+Academic Block,329,17,60,189,14
+Academic Block,330,18,39,132,8
+Academic Block,331,19,25,196,14
+Academic Block,332,20,24,155,3
+Academic Block,333,21,30,171,14
+Academic Block,334,22,34,88,17
+Academic Block,335,23,12,82,18
+Academic Block,336,0,47,134,5
+Academic Block,337,1,38,75,18
+Academic Block,338,2,39,53,6
+Academic Block,339,3,36,89,4
+Academic Block,340,4,40,117,12
+Academic Block,341,5,49,151,4
+Academic Block,342,6,31,186,14
+Academic Block,343,7,30,174,19
+Academic Block,344,8,12,67,9
+Academic Block,345,9,65,123,9
+Academic Block,346,10,30,161,5
+Academic Block,347,11,65,75,16
+Academic Block,348,12,35,126,2
+Academic Block,349,13,27,133,3
+Academic Block,350,14,43,141,13
+Academic Block,351,15,52,87,9
+Academic Block,352,16,58,155,20
+Academic Block,353,17,36,93,7
+Academic Block,354,18,15,147,9
+Academic Block,355,19,41,199,6
+Academic Block,356,20,24,168,10
+Academic Block,357,21,39,115,2
+Academic Block,358,22,39,123,19
+Academic Block,359,23,20,68,16
+Academic Block,360,0,32,200,11
+Academic Block,361,1,50,158,10
+Academic Block,362,2,39,127,8
+Academic Block,363,3,34,173,5
+Academic Block,364,4,25,147,20
+Academic Block,365,5,32,197,11
+Academic Block,366,6,28,55,14
+Academic Block,367,7,27,52,20
+Academic Block,368,8,13,177,11
+Academic Block,369,9,39,140,9
+Academic Block,370,10,65,98,10
+Academic Block,371,11,33,74,3
+Academic Block,372,12,44,162,3
+Academic Block,373,13,62,143,6
+Academic Block,374,14,30,125,12
+Academic Block,375,15,51,94,8
+Academic Block,376,16,33,188,13
+Academic Block,377,17,58,178,10
+Academic Block,378,18,20,115,17
+Academic Block,379,19,28,136,5
+Academic Block,380,20,39,69,6
+Academic Block,381,21,24,151,19
+Academic Block,382,22,33,73,14
+Academic Block,383,23,10,117,19
+Academic Block,384,0,17,166,13
+Academic Block,385,1,26,199,14
+Academic Block,386,2,50,145,5
+Academic Block,387,3,24,170,2
+Academic Block,388,4,49,193,12
+Academic Block,389,5,49,106,4
+Academic Block,390,6,50,168,11
+Academic Block,391,7,36,79,6
+Academic Block,392,8,12,59,11
+Academic Block,393,9,56,79,5
+Academic Block,394,10,40,187,6
+Academic Block,395,11,49,166,13
+Academic Block,396,12,59,157,20
+Academic Block,397,13,34,156,5
+Academic Block,398,14,56,154,10
+Academic Block,399,15,27,144,8
+Academic Block,400,16,53,163,9
+Academic Block,401,17,48,75,13
+Academic Block,402,18,44,141,3
+Academic Block,403,19,35,120,8
+Academic Block,404,20,17,166,4
+Academic Block,405,21,23,55,3
+Academic Block,406,22,31,112,6
+Academic Block,407,23,46,102,4
+Academic Block,408,0,45,103,20
+Academic Block,409,1,23,109,12
+Academic Block,410,2,19,50,10
+Academic Block,411,3,19,83,19
+Academic Block,412,4,26,94,5
+Academic Block,413,5,11,83,2
+Academic Block,414,6,32,110,20
+Academic Block,415,7,30,54,7
+Academic Block,416,8,26,63,6
+Academic Block,417,9,51,184,5
+Academic Block,418,10,29,171,16
+Academic Block,419,11,48,181,20
+Academic Block,420,12,31,165,18
+Academic Block,421,13,39,61,18
+Academic Block,422,14,44,167,2
+Academic Block,423,15,28,172,14
+Academic Block,424,16,52,77,17
+Academic Block,425,17,53,68,4
+Academic Block,426,18,30,87,4
+Academic Block,427,19,18,120,20
+Academic Block,428,20,45,133,14
+Academic Block,429,21,48,185,11
+Academic Block,430,22,39,179,15
+Academic Block,431,23,16,79,19
+Academic Block,432,0,23,160,16
+Academic Block,433,1,24,155,12
+Academic Block,434,2,39,152,15
+Academic Block,435,3,16,130,15
+Academic Block,436,4,30,115,13
+Academic Block,437,5,19,171,4
+Academic Block,438,6,15,71,4
+Academic Block,439,7,37,74,13
+Academic Block,440,8,18,192,3
+Academic Block,441,9,62,193,19
+Academic Block,442,10,46,81,15
+Academic Block,443,11,47,158,3
+Academic Block,444,12,43,129,13
+Academic Block,445,13,31,197,18
+Academic Block,446,14,38,89,17
+Academic Block,447,15,39,77,13
+Academic Block,448,16,60,144,5
+Academic Block,449,17,42,196,9
+Academic Block,450,18,37,193,19
+Academic Block,451,19,11,118,2
+Academic Block,452,20,21,119,11
+Academic Block,453,21,31,139,2
+Academic Block,454,22,21,86,20
+Academic Block,455,23,35,67,6
+Academic Block,456,0,50,57,4
+Academic Block,457,1,43,105,14
+Academic Block,458,2,36,166,12
+Academic Block,459,3,20,144,11
+Academic Block,460,4,30,195,4
+Academic Block,461,5,13,89,7
+Academic Block,462,6,49,62,4
+Academic Block,463,7,27,163,15
+Academic Block,464,8,41,163,15
+Academic Block,465,9,42,105,18
+Academic Block,466,10,32,138,15
+Academic Block,467,11,32,122,20
+Academic Block,468,12,56,184,11
+Academic Block,469,13,27,106,14
+Academic Block,470,14,63,64,2
+Academic Block,471,15,38,127,8
+Academic Block,472,16,33,115,11
+Academic Block,473,17,45,80,2
+Academic Block,474,18,41,160,7
+Academic Block,475,19,18,147,19
+Academic Block,476,20,24,178,19
+Academic Block,477,21,32,68,14
+Academic Block,478,22,12,161,2
+Academic Block,479,23,39,69,12
+Academic Block,480,0,46,159,20
+Academic Block,481,1,35,156,11
+Academic Block,482,2,17,153,2
+Academic Block,483,3,30,93,16
+Academic Block,484,4,33,72,15
+Academic Block,485,5,16,112,15
+Academic Block,486,6,47,152,18
+Academic Block,487,7,15,151,11
+Academic Block,488,8,31,106,12
+Academic Block,489,9,35,69,18
+Academic Block,490,10,65,79,18
+Academic Block,491,11,57,99,13
+Academic Block,492,12,47,87,9
+Academic Block,493,13,31,87,10
+Academic Block,494,14,37,94,6
+Academic Block,495,15,29,95,17
+Academic Block,496,16,54,194,20
+Academic Block,497,17,53,194,12
+Academic Block,498,18,50,130,6
+Academic Block,499,19,38,67,17
+Academic Block,500,20,38,127,10
+Academic Block,501,21,47,64,13
+Academic Block,502,22,42,68,11
+Academic Block,503,23,39,165,3
+Academic Block,504,0,13,144,11
+Academic Block,505,1,14,73,18
+Academic Block,506,2,34,168,20
+Academic Block,507,3,45,60,16
+Academic Block,508,4,46,98,12
+Academic Block,509,5,48,171,18
+Academic Block,510,6,19,65,16
+Academic Block,511,7,16,137,4
+Academic Block,512,8,42,94,3
+Academic Block,513,9,40,162,16
+Academic Block,514,10,58,183,7
+Academic Block,515,11,48,145,11
+Academic Block,516,12,49,154,12
+Academic Block,517,13,63,63,12
+Academic Block,518,14,29,134,5
+Academic Block,519,15,60,148,11
+Academic Block,520,16,41,88,12
+Academic Block,521,17,30,199,6
+Academic Block,522,18,32,129,14
+Academic Block,523,19,18,71,11
+Academic Block,524,20,45,146,12
+Academic Block,525,21,18,184,4
+Academic Block,526,22,37,180,13
+Academic Block,527,23,11,142,11
+Academic Block,528,0,21,104,12
+Academic Block,529,1,41,99,9
+Academic Block,530,2,18,89,4
+Academic Block,531,3,28,75,18
+Academic Block,532,4,44,184,3
+Academic Block,533,5,31,83,14
+Academic Block,534,6,19,91,7
+Academic Block,535,7,49,92,16
+Academic Block,536,8,12,155,13
+Academic Block,537,9,40,163,11
+Academic Block,538,10,53,109,19
+Academic Block,539,11,40,129,17
+Academic Block,540,12,37,144,20
+Academic Block,541,13,53,168,11
+Academic Block,542,14,49,178,18
+Academic Block,543,15,51,91,8
+Academic Block,544,16,63,85,10
+Academic Block,545,17,28,173,13
+Academic Block,546,18,45,76,18
+Academic Block,547,19,17,122,4
+Academic Block,548,20,20,119,16
+Academic Block,549,21,42,87,15
+Academic Block,550,22,15,106,16
+Academic Block,551,23,32,56,15
+Academic Block,552,0,13,151,18
+Academic Block,553,1,33,110,14
+Academic Block,554,2,15,145,9
+Academic Block,555,3,11,131,5
+Academic Block,556,4,31,87,6
+Academic Block,557,5,12,123,17
+Academic Block,558,6,18,170,16
+Academic Block,559,7,49,51,4
+Academic Block,560,8,11,115,8
+Academic Block,561,9,34,190,18
+Academic Block,562,10,52,78,11
+Academic Block,563,11,40,127,5
+Academic Block,564,12,28,111,15
+Academic Block,565,13,65,167,4
+Academic Block,566,14,32,177,19
+Academic Block,567,15,26,181,20
+Academic Block,568,16,40,86,11
+Academic Block,569,17,52,50,13
+Academic Block,570,18,25,196,15
+Academic Block,571,19,21,71,18
+Academic Block,572,20,33,67,18
+Academic Block,573,21,44,179,18
+Academic Block,574,22,45,55,14
+Academic Block,575,23,40,61,14
+Academic Block,576,0,33,114,2
+Academic Block,577,1,32,67,13
+Academic Block,578,2,25,76,20
+Academic Block,579,3,31,84,3
+Academic Block,580,4,32,189,12
+Academic Block,581,5,21,168,17
+Academic Block,582,6,50,96,6
+Academic Block,583,7,14,167,3
+Academic Block,584,8,28,101,3
+Academic Block,585,9,37,60,12
+Academic Block,586,10,44,181,14
+Academic Block,587,11,59,171,10
+Academic Block,588,12,27,98,11
+Academic Block,589,13,47,62,12
+Academic Block,590,14,42,81,13
+Academic Block,591,15,52,152,16
+Academic Block,592,16,49,136,7
+Academic Block,593,17,56,177,13
+Academic Block,594,18,43,118,4
+Academic Block,595,19,37,70,15
+Academic Block,596,20,48,96,19
+Academic Block,597,21,28,132,5
+Academic Block,598,22,15,133,11
+Academic Block,599,23,29,164,15
+Academic Block,600,0,20,163,13
+Academic Block,601,1,38,60,13
+Academic Block,602,2,49,161,10
+Academic Block,603,3,50,64,4
+Academic Block,604,4,50,153,13
+Academic Block,605,5,42,90,2
+Academic Block,606,6,19,162,3
+Academic Block,607,7,18,67,9
+Academic Block,608,8,33,142,14
+Academic Block,609,9,61,58,6
+Academic Block,610,10,53,144,13
+Academic Block,611,11,53,69,20
+Academic Block,612,12,33,185,13
+Academic Block,613,13,50,130,10
+Academic Block,614,14,40,79,2
+Academic Block,615,15,36,177,18
+Academic Block,616,16,49,193,5
+Academic Block,617,17,41,116,16
+Academic Block,618,18,23,123,17
+Academic Block,619,19,22,81,6
+Academic Block,620,20,14,165,7
+Academic Block,621,21,38,72,12
+Academic Block,622,22,32,66,19
+Academic Block,623,23,44,124,11
+Academic Block,624,0,20,94,13
+Academic Block,625,1,42,107,5
+Academic Block,626,2,22,85,9
+Academic Block,627,3,41,56,13
+Academic Block,628,4,45,196,13
+Academic Block,629,5,39,191,6
+Academic Block,630,6,49,72,4
+Academic Block,631,7,29,151,17
+Academic Block,632,8,43,155,15
+Academic Block,633,9,61,68,6
+Academic Block,634,10,45,68,16
+Academic Block,635,11,54,182,13
+Academic Block,636,12,33,191,20
+Academic Block,637,13,36,83,15
+Academic Block,638,14,57,64,5
+Academic Block,639,15,58,89,11
+Academic Block,640,16,35,91,12
+Academic Block,641,17,39,138,18
+Academic Block,642,18,28,70,10
+Academic Block,643,19,22,191,10
+Academic Block,644,20,18,127,19
+Academic Block,645,21,15,178,7
+Academic Block,646,22,47,198,6
+Academic Block,647,23,20,136,20
+Academic Block,648,0,12,57,4
+Academic Block,649,1,12,197,10
+Academic Block,650,2,23,196,15
+Academic Block,651,3,49,57,17
+Academic Block,652,4,50,189,11
+Academic Block,653,5,29,173,9
+Academic Block,654,6,35,126,16
+Academic Block,655,7,14,65,7
+Academic Block,656,8,38,156,17
+Academic Block,657,9,54,102,12
+Academic Block,658,10,63,86,12
+Academic Block,659,11,45,138,14
+Academic Block,660,12,33,144,18
+Academic Block,661,13,60,77,12
+Academic Block,662,14,40,169,5
+Academic Block,663,15,42,165,9
+Academic Block,664,16,34,74,3
+Academic Block,665,17,43,148,15
+Academic Block,666,18,25,90,12
+Academic Block,667,19,46,130,8
+Academic Block,668,20,20,177,18
+Academic Block,669,21,39,177,11
+Academic Block,670,22,41,55,4
+Academic Block,671,23,35,179,16
+Academic Block,672,0,25,105,20
+Academic Block,673,1,32,62,3
+Academic Block,674,2,28,176,17
+Academic Block,675,3,28,187,2
+Academic Block,676,4,16,160,6
+Academic Block,677,5,26,143,14
+Academic Block,678,6,33,61,14
+Academic Block,679,7,13,195,19
+Academic Block,680,8,22,142,19
+Academic Block,681,9,43,68,14
+Academic Block,682,10,57,165,19
+Academic Block,683,11,42,80,6
+Academic Block,684,12,31,150,13
+Academic Block,685,13,46,192,13
+Academic Block,686,14,34,100,18
+Academic Block,687,15,50,178,3
+Academic Block,688,16,27,59,6
+Academic Block,689,17,46,171,18
+Academic Block,690,18,39,88,18
+Academic Block,691,19,18,133,12
+Academic Block,692,20,20,150,11
+Academic Block,693,21,47,136,18
+Academic Block,694,22,42,186,17
+Academic Block,695,23,46,126,17
+Academic Block,696,0,11,144,12
+Academic Block,697,1,17,156,20
+Academic Block,698,2,29,56,17
+Academic Block,699,3,26,198,20
+Academic Block,700,4,24,63,20
+Academic Block,701,5,40,93,18
+Academic Block,702,6,50,147,6
+Academic Block,703,7,25,58,20
+Academic Block,704,8,17,98,2
+Academic Block,705,9,53,130,15
+Academic Block,706,10,34,155,8
+Academic Block,707,11,51,178,17
+Academic Block,708,12,28,85,18
+Academic Block,709,13,38,193,12
+Academic Block,710,14,55,184,14
+Academic Block,711,15,45,94,16
+Academic Block,712,16,59,137,19
+Academic Block,713,17,47,117,17
+Academic Block,714,18,22,113,10
+Academic Block,715,19,45,126,9
+Academic Block,716,20,29,123,8
+Academic Block,717,21,41,131,17
+Academic Block,718,22,32,193,10
+Academic Block,719,23,28,81,20
+Hostel,0,0,44,147,14
+Hostel,1,1,32,87,11
+Hostel,2,2,12,123,4
+Hostel,3,3,32,163,10
+Hostel,4,4,40,104,8
+Hostel,5,5,44,119,19
+Hostel,6,6,27,85,5
+Hostel,7,7,49,200,9
+Hostel,8,8,25,62,18
+Hostel,9,9,24,109,3
+Hostel,10,10,16,155,12
+Hostel,11,11,40,75,6
+Hostel,12,12,10,190,7
+Hostel,13,13,36,171,17
+Hostel,14,14,22,123,12
+Hostel,15,15,28,65,4
+Hostel,16,16,46,109,19
+Hostel,17,17,12,94,15
+Hostel,18,18,21,59,14
+Hostel,19,19,41,97,11
+Hostel,20,20,22,52,11
+Hostel,21,21,56,77,12
+Hostel,22,22,38,166,19
+Hostel,23,23,53,176,6
+Hostel,24,0,42,169,10
+Hostel,25,1,22,78,12
+Hostel,26,2,20,167,10
+Hostel,27,3,21,53,12
+Hostel,28,4,28,195,8
+Hostel,29,5,21,153,15
+Hostel,30,6,42,133,4
+Hostel,31,7,35,74,7
+Hostel,32,8,18,172,12
+Hostel,33,9,25,51,10
+Hostel,34,10,34,110,16
+Hostel,35,11,27,134,11
+Hostel,36,12,47,196,2
+Hostel,37,13,26,142,9
+Hostel,38,14,13,80,16
+Hostel,39,15,29,90,14
+Hostel,40,16,42,129,5
+Hostel,41,17,50,125,13
+Hostel,42,18,49,106,9
+Hostel,43,19,18,172,6
+Hostel,44,20,49,145,15
+Hostel,45,21,55,170,19
+Hostel,46,22,33,113,4
+Hostel,47,23,53,164,18
+Hostel,48,0,33,69,20
+Hostel,49,1,17,65,19
+Hostel,50,2,42,101,20
+Hostel,51,3,44,88,7
+Hostel,52,4,30,183,16
+Hostel,53,5,17,102,20
+Hostel,54,6,41,73,18
+Hostel,55,7,38,64,16
+Hostel,56,8,18,181,15
+Hostel,57,9,39,194,3
+Hostel,58,10,45,168,11
+Hostel,59,11,11,151,10
+Hostel,60,12,10,105,20
+Hostel,61,13,14,61,15
+Hostel,62,14,32,66,19
+Hostel,63,15,13,67,17
+Hostel,64,16,12,123,15
+Hostel,65,17,21,84,15
+Hostel,66,18,33,147,16
+Hostel,67,19,34,146,4
+Hostel,68,20,54,84,13
+Hostel,69,21,27,95,19
+Hostel,70,22,45,185,6
+Hostel,71,23,34,50,2
+Hostel,72,0,29,168,19
+Hostel,73,1,37,186,14
+Hostel,74,2,24,113,16
+Hostel,75,3,32,89,10
+Hostel,76,4,22,78,3
+Hostel,77,5,36,54,9
+Hostel,78,6,23,67,5
+Hostel,79,7,48,58,16
+Hostel,80,8,48,62,9
+Hostel,81,9,12,152,16
+Hostel,82,10,24,188,8
+Hostel,83,11,13,85,18
+Hostel,84,12,28,109,20
+Hostel,85,13,30,197,12
+Hostel,86,14,25,127,6
+Hostel,87,15,43,106,15
+Hostel,88,16,29,120,3
+Hostel,89,17,45,94,15
+Hostel,90,18,45,176,3
+Hostel,91,19,32,147,18
+Hostel,92,20,40,156,15
+Hostel,93,21,29,126,14
+Hostel,94,22,31,187,17
+Hostel,95,23,35,107,11
+Hostel,96,0,19,168,3
+Hostel,97,1,45,155,15
+Hostel,98,2,45,185,6
+Hostel,99,3,34,112,10
+Hostel,100,4,23,134,4
+Hostel,101,5,38,144,4
+Hostel,102,6,44,98,3
+Hostel,103,7,27,146,3
+Hostel,104,8,14,98,20
+Hostel,105,9,45,105,17
+Hostel,106,10,23,135,11
+Hostel,107,11,10,104,8
+Hostel,108,12,17,172,9
+Hostel,109,13,48,102,14
+Hostel,110,14,25,191,12
+Hostel,111,15,28,147,16
+Hostel,112,16,44,141,11
+Hostel,113,17,26,142,18
+Hostel,114,18,41,169,5
+Hostel,115,19,40,131,8
+Hostel,116,20,43,130,15
+Hostel,117,21,22,194,9
+Hostel,118,22,29,54,10
+Hostel,119,23,55,199,20
+Hostel,120,0,36,125,6
+Hostel,121,1,22,134,9
+Hostel,122,2,34,195,9
+Hostel,123,3,41,190,12
+Hostel,124,4,26,175,17
+Hostel,125,5,39,93,13
+Hostel,126,6,20,85,19
+Hostel,127,7,41,97,19
+Hostel,128,8,13,184,3
+Hostel,129,9,14,62,2
+Hostel,130,10,36,85,9
+Hostel,131,11,14,88,2
+Hostel,132,12,23,179,16
+Hostel,133,13,33,65,17
+Hostel,134,14,41,54,2
+Hostel,135,15,44,191,15
+Hostel,136,16,10,54,18
+Hostel,137,17,27,187,11
+Hostel,138,18,11,178,15
+Hostel,139,19,21,77,5
+Hostel,140,20,53,88,9
+Hostel,141,21,32,184,10
+Hostel,142,22,42,118,14
+Hostel,143,23,25,145,14
+Hostel,144,0,39,194,9
+Hostel,145,1,24,126,4
+Hostel,146,2,12,73,14
+Hostel,147,3,34,146,19
+Hostel,148,4,40,64,2
+Hostel,149,5,20,71,17
+Hostel,150,6,37,134,20
+Hostel,151,7,16,185,3
+Hostel,152,8,24,104,20
+Hostel,153,9,40,119,3
+Hostel,154,10,14,121,19
+Hostel,155,11,46,58,7
+Hostel,156,12,30,54,8
+Hostel,157,13,47,86,14
+Hostel,158,14,14,126,7
+Hostel,159,15,46,111,20
+Hostel,160,16,34,188,12
+Hostel,161,17,34,85,4
+Hostel,162,18,42,138,3
+Hostel,163,19,16,161,9
+Hostel,164,20,24,137,14
+Hostel,165,21,40,57,10
+Hostel,166,22,48,175,9
+Hostel,167,23,42,191,14
+Hostel,168,0,37,97,20
+Hostel,169,1,34,71,11
+Hostel,170,2,25,68,4
+Hostel,171,3,27,89,14
+Hostel,172,4,50,89,14
+Hostel,173,5,30,142,5
+Hostel,174,6,15,51,11
+Hostel,175,7,38,142,10
+Hostel,176,8,16,83,4
+Hostel,177,9,21,160,16
+Hostel,178,10,45,192,18
+Hostel,179,11,36,76,2
+Hostel,180,12,15,140,19
+Hostel,181,13,15,133,14
+Hostel,182,14,10,124,15
+Hostel,183,15,34,71,19
+Hostel,184,16,25,196,18
+Hostel,185,17,20,147,7
+Hostel,186,18,18,118,11
+Hostel,187,19,27,176,6
+Hostel,188,20,24,92,15
+Hostel,189,21,37,157,11
+Hostel,190,22,50,69,13
+Hostel,191,23,36,113,17
+Hostel,192,0,48,100,16
+Hostel,193,1,16,84,11
+Hostel,194,2,10,151,12
+Hostel,195,3,49,147,12
+Hostel,196,4,38,135,15
+Hostel,197,5,48,84,11
+Hostel,198,6,30,101,17
+Hostel,199,7,30,95,14
+Hostel,200,8,30,124,17
+Hostel,201,9,46,112,12
+Hostel,202,10,34,121,14
+Hostel,203,11,33,79,20
+Hostel,204,12,22,189,7
+Hostel,205,13,45,56,16
+Hostel,206,14,23,162,11
+Hostel,207,15,14,154,17
+Hostel,208,16,18,127,9
+Hostel,209,17,26,89,15
+Hostel,210,18,34,68,16
+Hostel,211,19,48,172,20
+Hostel,212,20,45,186,18
+Hostel,213,21,46,189,3
+Hostel,214,22,43,187,4
+Hostel,215,23,26,113,13
+Hostel,216,0,20,61,20
+Hostel,217,1,35,134,15
+Hostel,218,2,16,52,5
+Hostel,219,3,26,106,18
+Hostel,220,4,43,192,20
+Hostel,221,5,46,106,16
+Hostel,222,6,33,150,16
+Hostel,223,7,47,178,6
+Hostel,224,8,32,56,17
+Hostel,225,9,16,125,15
+Hostel,226,10,15,79,6
+Hostel,227,11,32,129,12
+Hostel,228,12,39,102,18
+Hostel,229,13,40,139,17
+Hostel,230,14,16,162,16
+Hostel,231,15,30,67,11
+Hostel,232,16,12,79,2
+Hostel,233,17,31,77,7
+Hostel,234,18,25,182,7
+Hostel,235,19,45,90,12
+Hostel,236,20,55,159,16
+Hostel,237,21,34,153,7
+Hostel,238,22,31,160,14
+Hostel,239,23,21,100,16
+Hostel,240,0,47,159,14
+Hostel,241,1,10,104,8
+Hostel,242,2,27,66,20
+Hostel,243,3,16,187,7
+Hostel,244,4,33,133,8
+Hostel,245,5,39,79,10
+Hostel,246,6,41,185,12
+Hostel,247,7,48,149,14
+Hostel,248,8,47,79,13
+Hostel,249,9,32,167,7
+Hostel,250,10,29,71,6
+Hostel,251,11,30,80,9
+Hostel,252,12,29,79,7
+Hostel,253,13,33,86,18
+Hostel,254,14,34,157,6
+Hostel,255,15,46,148,15
+Hostel,256,16,21,174,19
+Hostel,257,17,21,192,7
+Hostel,258,18,41,123,6
+Hostel,259,19,21,130,16
+Hostel,260,20,59,63,13
+Hostel,261,21,20,174,6
+Hostel,262,22,32,148,19
+Hostel,263,23,52,176,15
+Hostel,264,0,41,156,16
+Hostel,265,1,41,92,4
+Hostel,266,2,46,57,9
+Hostel,267,3,28,58,10
+Hostel,268,4,24,187,11
+Hostel,269,5,20,167,20
+Hostel,270,6,41,190,18
+Hostel,271,7,17,196,5
+Hostel,272,8,27,189,13
+Hostel,273,9,44,60,16
+Hostel,274,10,44,105,15
+Hostel,275,11,16,113,11
+Hostel,276,12,12,165,10
+Hostel,277,13,32,72,16
+Hostel,278,14,17,110,8
+Hostel,279,15,47,139,15
+Hostel,280,16,20,85,8
+Hostel,281,17,23,65,20
+Hostel,282,18,32,186,10
+Hostel,283,19,48,187,7
+Hostel,284,20,40,124,11
+Hostel,285,21,56,118,18
+Hostel,286,22,26,84,15
+Hostel,287,23,23,120,6
+Hostel,288,0,18,113,6
+Hostel,289,1,30,113,14
+Hostel,290,2,41,86,20
+Hostel,291,3,50,118,15
+Hostel,292,4,34,165,4
+Hostel,293,5,50,73,14
+Hostel,294,6,42,121,13
+Hostel,295,7,39,174,12
+Hostel,296,8,47,50,4
+Hostel,297,9,39,141,4
+Hostel,298,10,44,151,8
+Hostel,299,11,37,104,17
+Hostel,300,12,27,132,11
+Hostel,301,13,31,190,20
+Hostel,302,14,18,194,17
+Hostel,303,15,31,62,3
+Hostel,304,16,16,167,2
+Hostel,305,17,17,90,16
+Hostel,306,18,39,50,15
+Hostel,307,19,22,83,11
+Hostel,308,20,30,120,4
+Hostel,309,21,43,114,4
+Hostel,310,22,43,92,3
+Hostel,311,23,45,128,9
+Hostel,312,0,37,73,5
+Hostel,313,1,10,104,17
+Hostel,314,2,14,83,20
+Hostel,315,3,24,182,16
+Hostel,316,4,10,52,12
+Hostel,317,5,17,158,6
+Hostel,318,6,40,68,9
+Hostel,319,7,34,72,5
+Hostel,320,8,16,130,13
+Hostel,321,9,29,85,14
+Hostel,322,10,18,86,4
+Hostel,323,11,43,194,2
+Hostel,324,12,49,92,16
+Hostel,325,13,32,104,6
+Hostel,326,14,36,163,8
+Hostel,327,15,15,75,6
+Hostel,328,16,17,200,14
+Hostel,329,17,32,159,12
+Hostel,330,18,18,113,10
+Hostel,331,19,15,113,19
+Hostel,332,20,58,122,2
+Hostel,333,21,39,102,18
+Hostel,334,22,58,180,8
+Hostel,335,23,45,125,3
+Hostel,336,0,25,176,14
+Hostel,337,1,17,111,17
+Hostel,338,2,50,68,18
+Hostel,339,3,10,142,12
+Hostel,340,4,18,149,20
+Hostel,341,5,36,143,19
+Hostel,342,6,21,170,4
+Hostel,343,7,11,200,4
+Hostel,344,8,10,117,8
+Hostel,345,9,12,65,14
+Hostel,346,10,42,123,18
+Hostel,347,11,36,158,14
+Hostel,348,12,15,187,19
+Hostel,349,13,49,89,10
+Hostel,350,14,15,129,4
+Hostel,351,15,42,102,6
+Hostel,352,16,44,133,14
+Hostel,353,17,47,66,11
+Hostel,354,18,37,111,3
+Hostel,355,19,25,72,15
+Hostel,356,20,27,166,3
+Hostel,357,21,39,94,5
+Hostel,358,22,20,85,2
+Hostel,359,23,30,177,13
+Hostel,360,0,43,182,10
+Hostel,361,1,20,145,6
+Hostel,362,2,27,80,2
+Hostel,363,3,31,159,10
+Hostel,364,4,43,66,10
+Hostel,365,5,46,69,17
+Hostel,366,6,39,180,13
+Hostel,367,7,13,177,20
+Hostel,368,8,20,144,7
+Hostel,369,9,26,76,20
+Hostel,370,10,17,108,18
+Hostel,371,11,10,61,2
+Hostel,372,12,25,61,17
+Hostel,373,13,33,148,6
+Hostel,374,14,21,59,19
+Hostel,375,15,36,107,12
+Hostel,376,16,25,156,12
+Hostel,377,17,27,69,20
+Hostel,378,18,33,80,18
+Hostel,379,19,13,95,9
+Hostel,380,20,53,61,14
+Hostel,381,21,24,169,11
+Hostel,382,22,39,133,4
+Hostel,383,23,55,166,2
+Hostel,384,0,33,101,11
+Hostel,385,1,46,127,9
+Hostel,386,2,39,144,20
+Hostel,387,3,41,100,19
+Hostel,388,4,25,88,2
+Hostel,389,5,36,56,9
+Hostel,390,6,44,138,2
+Hostel,391,7,31,50,14
+Hostel,392,8,29,76,8
+Hostel,393,9,43,110,15
+Hostel,394,10,41,65,6
+Hostel,395,11,27,73,3
+Hostel,396,12,24,183,15
+Hostel,397,13,33,167,4
+Hostel,398,14,47,74,18
+Hostel,399,15,18,150,4
+Hostel,400,16,47,195,3
+Hostel,401,17,37,83,9
+Hostel,402,18,28,116,12
+Hostel,403,19,35,133,12
+Hostel,404,20,48,119,9
+Hostel,405,21,24,101,6
+Hostel,406,22,57,77,6
+Hostel,407,23,26,92,16
+Hostel,408,0,39,130,15
+Hostel,409,1,17,187,13
+Hostel,410,2,23,165,11
+Hostel,411,3,39,117,5
+Hostel,412,4,15,90,11
+Hostel,413,5,48,60,8
+Hostel,414,6,30,87,4
+Hostel,415,7,25,141,14
+Hostel,416,8,42,62,11
+Hostel,417,9,26,94,2
+Hostel,418,10,35,165,19
+Hostel,419,11,45,113,5
+Hostel,420,12,39,76,6
+Hostel,421,13,17,53,3
+Hostel,422,14,24,83,8
+Hostel,423,15,35,145,4
+Hostel,424,16,47,200,10
+Hostel,425,17,14,55,4
+Hostel,426,18,22,163,6
+Hostel,427,19,15,134,5
+Hostel,428,20,22,168,3
+Hostel,429,21,30,196,15
+Hostel,430,22,45,177,2
+Hostel,431,23,44,159,7
+Hostel,432,0,32,104,7
+Hostel,433,1,27,121,16
+Hostel,434,2,19,58,9
+Hostel,435,3,28,177,15
+Hostel,436,4,45,172,3
+Hostel,437,5,15,121,14
+Hostel,438,6,18,157,8
+Hostel,439,7,43,113,19
+Hostel,440,8,11,147,13
+Hostel,441,9,40,189,17
+Hostel,442,10,32,194,18
+Hostel,443,11,30,149,10
+Hostel,444,12,21,56,12
+Hostel,445,13,48,106,2
+Hostel,446,14,27,64,17
+Hostel,447,15,43,141,20
+Hostel,448,16,24,90,5
+Hostel,449,17,25,111,10
+Hostel,450,18,44,64,9
+Hostel,451,19,46,149,13
+Hostel,452,20,31,95,9
+Hostel,453,21,57,131,13
+Hostel,454,22,57,57,13
+Hostel,455,23,56,194,6
+Hostel,456,0,46,98,17
+Hostel,457,1,44,129,7
+Hostel,458,2,41,59,4
+Hostel,459,3,13,109,9
+Hostel,460,4,11,184,17
+Hostel,461,5,10,134,8
+Hostel,462,6,18,137,7
+Hostel,463,7,30,65,2
+Hostel,464,8,19,200,6
+Hostel,465,9,17,184,13
+Hostel,466,10,14,145,14
+Hostel,467,11,47,75,12
+Hostel,468,12,29,132,6
+Hostel,469,13,20,161,17
+Hostel,470,14,30,94,19
+Hostel,471,15,49,141,9
+Hostel,472,16,47,94,14
+Hostel,473,17,29,125,6
+Hostel,474,18,21,50,20
+Hostel,475,19,35,195,3
+Hostel,476,20,31,131,9
+Hostel,477,21,60,194,5
+Hostel,478,22,51,86,12
+Hostel,479,23,24,110,13
+Hostel,480,0,30,92,4
+Hostel,481,1,50,135,16
+Hostel,482,2,10,117,8
+Hostel,483,3,25,67,13
+Hostel,484,4,26,77,2
+Hostel,485,5,13,148,16
+Hostel,486,6,36,92,15
+Hostel,487,7,41,146,13
+Hostel,488,8,44,146,5
+Hostel,489,9,40,197,9
+Hostel,490,10,20,165,4
+Hostel,491,11,12,125,2
+Hostel,492,12,30,116,5
+Hostel,493,13,14,137,7
+Hostel,494,14,34,91,4
+Hostel,495,15,45,73,12
+Hostel,496,16,48,173,2
+Hostel,497,17,37,92,15
+Hostel,498,18,20,63,5
+Hostel,499,19,31,102,8
+Hostel,500,20,46,191,19
+Hostel,501,21,36,122,11
+Hostel,502,22,35,74,3
+Hostel,503,23,45,196,19
+Hostel,504,0,41,89,3
+Hostel,505,1,33,50,15
+Hostel,506,2,15,125,17
+Hostel,507,3,22,74,2
+Hostel,508,4,23,93,11
+Hostel,509,5,15,171,5
+Hostel,510,6,29,151,17
+Hostel,511,7,41,117,4
+Hostel,512,8,44,149,7
+Hostel,513,9,33,147,13
+Hostel,514,10,21,164,3
+Hostel,515,11,26,162,16
+Hostel,516,12,26,107,10
+Hostel,517,13,46,65,6
+Hostel,518,14,16,71,13
+Hostel,519,15,44,155,20
+Hostel,520,16,24,191,3
+Hostel,521,17,34,183,15
+Hostel,522,18,44,171,20
+Hostel,523,19,25,171,11
+Hostel,524,20,25,151,3
+Hostel,525,21,52,196,18
+Hostel,526,22,56,87,5
+Hostel,527,23,48,94,7
+Hostel,528,0,23,99,6
+Hostel,529,1,12,158,4
+Hostel,530,2,37,101,6
+Hostel,531,3,48,116,12
+Hostel,532,4,14,72,14
+Hostel,533,5,45,151,19
+Hostel,534,6,30,120,18
+Hostel,535,7,39,53,20
+Hostel,536,8,43,157,5
+Hostel,537,9,36,88,6
+Hostel,538,10,46,200,20
+Hostel,539,11,16,77,20
+Hostel,540,12,16,123,19
+Hostel,541,13,32,155,10
+Hostel,542,14,34,174,20
+Hostel,543,15,48,171,3
+Hostel,544,16,21,120,14
+Hostel,545,17,19,152,3
+Hostel,546,18,35,134,9
+Hostel,547,19,13,171,10
+Hostel,548,20,43,55,12
+Hostel,549,21,39,129,10
+Hostel,550,22,51,75,9
+Hostel,551,23,28,126,16
+Hostel,552,0,30,118,15
+Hostel,553,1,48,72,8
+Hostel,554,2,38,104,15
+Hostel,555,3,41,182,13
+Hostel,556,4,13,181,7
+Hostel,557,5,14,129,18
+Hostel,558,6,35,84,18
+Hostel,559,7,46,57,7
+Hostel,560,8,22,101,3
+Hostel,561,9,25,58,16
+Hostel,562,10,13,142,8
+Hostel,563,11,27,144,16
+Hostel,564,12,42,151,5
+Hostel,565,13,11,111,13
+Hostel,566,14,41,164,7
+Hostel,567,15,40,200,19
+Hostel,568,16,32,138,7
+Hostel,569,17,26,73,11
+Hostel,570,18,11,148,3
+Hostel,571,19,20,196,8
+Hostel,572,20,34,107,8
+Hostel,573,21,37,154,18
+Hostel,574,22,21,52,17
+Hostel,575,23,28,94,2
+Hostel,576,0,24,114,11
+Hostel,577,1,27,158,14
+Hostel,578,2,32,167,10
+Hostel,579,3,23,169,11
+Hostel,580,4,43,151,20
+Hostel,581,5,16,51,18
+Hostel,582,6,33,193,11
+Hostel,583,7,29,77,17
+Hostel,584,8,14,136,10
+Hostel,585,9,50,133,10
+Hostel,586,10,26,126,8
+Hostel,587,11,19,182,9
+Hostel,588,12,13,153,12
+Hostel,589,13,18,56,17
+Hostel,590,14,28,116,15
+Hostel,591,15,35,149,3
+Hostel,592,16,47,196,8
+Hostel,593,17,31,106,19
+Hostel,594,18,50,171,13
+Hostel,595,19,42,126,7
+Hostel,596,20,55,96,11
+Hostel,597,21,26,170,6
+Hostel,598,22,36,193,7
+Hostel,599,23,41,72,9
+Hostel,600,0,32,107,11
+Hostel,601,1,36,134,13
+Hostel,602,2,26,199,11
+Hostel,603,3,39,80,17
+Hostel,604,4,13,199,20
+Hostel,605,5,49,68,17
+Hostel,606,6,22,178,5
+Hostel,607,7,34,185,11
+Hostel,608,8,36,63,6
+Hostel,609,9,18,101,12
+Hostel,610,10,36,195,16
+Hostel,611,11,19,130,7
+Hostel,612,12,15,174,12
+Hostel,613,13,50,95,12
+Hostel,614,14,50,64,2
+Hostel,615,15,38,120,8
+Hostel,616,16,20,197,7
+Hostel,617,17,41,72,6
+Hostel,618,18,49,161,15
+Hostel,619,19,35,159,17
+Hostel,620,20,44,51,3
+Hostel,621,21,54,101,13
+Hostel,622,22,20,132,18
+Hostel,623,23,32,54,2
+Hostel,624,0,50,113,9
+Hostel,625,1,32,129,6
+Hostel,626,2,16,148,18
+Hostel,627,3,47,128,7
+Hostel,628,4,14,61,11
+Hostel,629,5,28,166,18
+Hostel,630,6,48,184,12
+Hostel,631,7,37,84,12
+Hostel,632,8,41,141,8
+Hostel,633,9,20,153,2
+Hostel,634,10,24,107,6
+Hostel,635,11,23,55,20
+Hostel,636,12,42,93,5
+Hostel,637,13,33,59,14
+Hostel,638,14,50,115,19
+Hostel,639,15,49,62,3
+Hostel,640,16,16,55,3
+Hostel,641,17,17,156,16
+Hostel,642,18,34,81,19
+Hostel,643,19,26,171,6
+Hostel,644,20,33,52,11
+Hostel,645,21,46,75,18
+Hostel,646,22,37,85,15
+Hostel,647,23,26,180,5
+Hostel,648,0,28,79,5
+Hostel,649,1,41,100,8
+Hostel,650,2,26,183,8
+Hostel,651,3,32,154,11
+Hostel,652,4,20,60,19
+Hostel,653,5,41,103,17
+Hostel,654,6,31,110,2
+Hostel,655,7,10,72,5
+Hostel,656,8,46,176,6
+Hostel,657,9,15,180,4
+Hostel,658,10,16,115,9
+Hostel,659,11,39,125,10
+Hostel,660,12,39,62,5
+Hostel,661,13,21,60,11
+Hostel,662,14,33,130,15
+Hostel,663,15,17,74,3
+Hostel,664,16,10,85,7
+Hostel,665,17,31,141,16
+Hostel,666,18,49,118,4
+Hostel,667,19,33,137,7
+Hostel,668,20,27,152,14
+Hostel,669,21,49,119,14
+Hostel,670,22,50,157,7
+Hostel,671,23,27,83,3
+Hostel,672,0,20,76,15
+Hostel,673,1,47,173,20
+Hostel,674,2,38,96,14
+Hostel,675,3,32,57,6
+Hostel,676,4,40,174,5
+Hostel,677,5,36,162,3
+Hostel,678,6,14,116,12
+Hostel,679,7,10,184,20
+Hostel,680,8,46,107,12
+Hostel,681,9,43,183,5
+Hostel,682,10,37,113,17
+Hostel,683,11,32,148,6
+Hostel,684,12,45,63,2
+Hostel,685,13,20,179,17
+Hostel,686,14,41,92,4
+Hostel,687,15,41,132,9
+Hostel,688,16,31,121,3
+Hostel,689,17,42,107,19
+Hostel,690,18,34,153,9
+Hostel,691,19,15,167,16
+Hostel,692,20,56,164,4
+Hostel,693,21,51,164,12
+Hostel,694,22,27,177,2
+Hostel,695,23,26,153,15
+Hostel,696,0,12,192,19
+Hostel,697,1,10,73,11
+Hostel,698,2,42,193,8
+Hostel,699,3,39,137,13
+Hostel,700,4,13,107,16
+Hostel,701,5,31,193,17
+Hostel,702,6,33,165,5
+Hostel,703,7,16,106,2
+Hostel,704,8,31,140,11
+Hostel,705,9,45,183,13
+Hostel,706,10,16,61,7
+Hostel,707,11,41,85,15
+Hostel,708,12,16,115,8
+Hostel,709,13,22,80,14
+Hostel,710,14,23,167,8
+Hostel,711,15,31,77,15
+Hostel,712,16,12,200,5
+Hostel,713,17,38,167,20
+Hostel,714,18,42,84,17
+Hostel,715,19,10,185,3
+Hostel,716,20,55,160,20
+Hostel,717,21,50,180,7
+Hostel,718,22,57,94,6
+Hostel,719,23,26,149,12
+Cafeteria,0,0,42,148,15
+Cafeteria,1,1,48,113,10
+Cafeteria,2,2,35,137,11
+Cafeteria,3,3,38,84,6
+Cafeteria,4,4,36,181,11
+Cafeteria,5,5,45,130,19
+Cafeteria,6,6,50,105,8
+Cafeteria,7,7,23,124,13
+Cafeteria,8,8,18,95,18
+Cafeteria,9,9,44,132,5
+Cafeteria,10,10,32,193,17
+Cafeteria,11,11,47,196,15
+Cafeteria,12,12,64,223,30
+Cafeteria,13,13,30,283,20
+Cafeteria,14,14,11,147,6
+Cafeteria,15,15,13,64,8
+Cafeteria,16,16,27,91,11
+Cafeteria,17,17,26,87,3
+Cafeteria,18,18,28,102,19
+Cafeteria,19,19,32,241,31
+Cafeteria,20,20,36,293,24
+Cafeteria,21,21,45,149,9
+Cafeteria,22,22,42,123,3
+Cafeteria,23,23,34,149,15
+Cafeteria,24,0,30,191,3
+Cafeteria,25,1,10,114,8
+Cafeteria,26,2,49,163,9
+Cafeteria,27,3,50,144,20
+Cafeteria,28,4,44,100,8
+Cafeteria,29,5,28,164,7
+Cafeteria,30,6,14,97,7
+Cafeteria,31,7,42,80,14
+Cafeteria,32,8,12,159,10
+Cafeteria,33,9,45,117,6
+Cafeteria,34,10,20,199,10
+Cafeteria,35,11,10,134,16
+Cafeteria,36,12,39,160,21
+Cafeteria,37,13,50,163,26
+Cafeteria,38,14,41,196,19
+Cafeteria,39,15,32,68,12
+Cafeteria,40,16,43,106,7
+Cafeteria,41,17,43,67,18
+Cafeteria,42,18,20,156,19
+Cafeteria,43,19,64,253,19
+Cafeteria,44,20,52,206,23
+Cafeteria,45,21,31,134,13
+Cafeteria,46,22,28,105,18
+Cafeteria,47,23,40,193,2
+Cafeteria,48,0,17,138,16
+Cafeteria,49,1,25,112,3
+Cafeteria,50,2,30,147,5
+Cafeteria,51,3,34,115,19
+Cafeteria,52,4,28,56,18
+Cafeteria,53,5,33,181,18
+Cafeteria,54,6,38,174,3
+Cafeteria,55,7,28,99,12
+Cafeteria,56,8,42,71,5
+Cafeteria,57,9,20,187,19
+Cafeteria,58,10,10,66,8
+Cafeteria,59,11,50,104,15
+Cafeteria,60,12,36,202,34
+Cafeteria,61,13,57,168,21
+Cafeteria,62,14,11,167,12
+Cafeteria,63,15,12,72,4
+Cafeteria,64,16,13,95,10
+Cafeteria,65,17,45,68,20
+Cafeteria,66,18,24,116,15
+Cafeteria,67,19,54,265,29
+Cafeteria,68,20,57,230,17
+Cafeteria,69,21,34,80,19
+Cafeteria,70,22,10,66,20
+Cafeteria,71,23,12,68,13
+Cafeteria,72,0,42,77,11
+Cafeteria,73,1,29,72,11
+Cafeteria,74,2,38,147,14
+Cafeteria,75,3,11,171,7
+Cafeteria,76,4,44,106,6
+Cafeteria,77,5,35,189,11
+Cafeteria,78,6,50,86,11
+Cafeteria,79,7,33,52,19
+Cafeteria,80,8,45,86,5
+Cafeteria,81,9,12,51,20
+Cafeteria,82,10,48,150,19
+Cafeteria,83,11,45,71,11
+Cafeteria,84,12,43,238,23
+Cafeteria,85,13,56,281,21
+Cafeteria,86,14,20,97,9
+Cafeteria,87,15,49,114,8
+Cafeteria,88,16,17,96,20
+Cafeteria,89,17,13,190,16
+Cafeteria,90,18,45,68,11
+Cafeteria,91,19,34,214,20
+Cafeteria,92,20,42,298,32
+Cafeteria,93,21,31,141,6
+Cafeteria,94,22,25,75,11
+Cafeteria,95,23,49,67,8
+Cafeteria,96,0,30,174,16
+Cafeteria,97,1,31,128,20
+Cafeteria,98,2,19,194,20
+Cafeteria,99,3,33,130,15
+Cafeteria,100,4,20,51,12
+Cafeteria,101,5,25,106,15
+Cafeteria,102,6,27,142,6
+Cafeteria,103,7,31,172,16
+Cafeteria,104,8,38,141,11
+Cafeteria,105,9,41,191,5
+Cafeteria,106,10,21,70,10
+Cafeteria,107,11,18,187,8
+Cafeteria,108,12,46,169,19
+Cafeteria,109,13,31,279,17
+Cafeteria,110,14,47,198,14
+Cafeteria,111,15,47,104,3
+Cafeteria,112,16,45,116,19
+Cafeteria,113,17,44,170,6
+Cafeteria,114,18,33,150,9
+Cafeteria,115,19,67,224,21
+Cafeteria,116,20,59,278,33
+Cafeteria,117,21,15,151,13
+Cafeteria,118,22,42,52,9
+Cafeteria,119,23,49,92,18
+Cafeteria,120,0,18,164,7
+Cafeteria,121,1,21,194,20
+Cafeteria,122,2,19,173,13
+Cafeteria,123,3,12,106,17
+Cafeteria,124,4,24,66,10
+Cafeteria,125,5,33,109,3
+Cafeteria,126,6,23,182,13
+Cafeteria,127,7,34,170,16
+Cafeteria,128,8,12,60,12
+Cafeteria,129,9,16,183,10
+Cafeteria,130,10,26,198,19
+Cafeteria,131,11,46,94,14
+Cafeteria,132,12,54,243,35
+Cafeteria,133,13,34,282,25
+Cafeteria,134,14,34,107,18
+Cafeteria,135,15,35,140,13
+Cafeteria,136,16,41,173,2
+Cafeteria,137,17,42,85,16
+Cafeteria,138,18,20,108,4
+Cafeteria,139,19,62,221,23
+Cafeteria,140,20,39,197,22
+Cafeteria,141,21,33,80,9
+Cafeteria,142,22,36,134,5
+Cafeteria,143,23,40,172,17
+Cafeteria,144,0,23,91,15
+Cafeteria,145,1,11,112,3
+Cafeteria,146,2,18,196,20
+Cafeteria,147,3,20,84,18
+Cafeteria,148,4,12,196,6
+Cafeteria,149,5,13,92,10
+Cafeteria,150,6,21,182,14
+Cafeteria,151,7,48,194,2
+Cafeteria,152,8,28,71,8
+Cafeteria,153,9,38,170,17
+Cafeteria,154,10,20,106,15
+Cafeteria,155,11,48,86,20
+Cafeteria,156,12,41,280,25
+Cafeteria,157,13,40,237,31
+Cafeteria,158,14,48,67,9
+Cafeteria,159,15,34,148,6
+Cafeteria,160,16,16,54,8
+Cafeteria,161,17,43,179,15
+Cafeteria,162,18,19,74,7
+Cafeteria,163,19,60,159,34
+Cafeteria,164,20,62,180,19
+Cafeteria,165,21,40,83,19
+Cafeteria,166,22,10,160,18
+Cafeteria,167,23,36,144,3
+Cafeteria,168,0,43,159,9
+Cafeteria,169,1,40,147,13
+Cafeteria,170,2,47,197,5
+Cafeteria,171,3,37,84,10
+Cafeteria,172,4,40,109,4
+Cafeteria,173,5,28,189,15
+Cafeteria,174,6,26,98,2
+Cafeteria,175,7,10,197,18
+Cafeteria,176,8,17,183,2
+Cafeteria,177,9,34,102,12
+Cafeteria,178,10,36,142,5
+Cafeteria,179,11,19,159,20
+Cafeteria,180,12,46,216,34
+Cafeteria,181,13,57,294,28
+Cafeteria,182,14,49,120,14
+Cafeteria,183,15,23,155,19
+Cafeteria,184,16,45,173,7
+Cafeteria,185,17,33,193,19
+Cafeteria,186,18,40,114,11
+Cafeteria,187,19,66,238,29
+Cafeteria,188,20,38,180,24
+Cafeteria,189,21,38,91,5
+Cafeteria,190,22,23,180,14
+Cafeteria,191,23,31,190,3
+Cafeteria,192,0,20,149,2
+Cafeteria,193,1,15,87,17
+Cafeteria,194,2,48,161,4
+Cafeteria,195,3,14,117,9
+Cafeteria,196,4,33,70,3
+Cafeteria,197,5,34,152,18
+Cafeteria,198,6,28,64,7
+Cafeteria,199,7,50,176,16
+Cafeteria,200,8,10,101,18
+Cafeteria,201,9,28,99,3
+Cafeteria,202,10,48,180,18
+Cafeteria,203,11,24,93,3
+Cafeteria,204,12,53,211,17
+Cafeteria,205,13,40,172,25
+Cafeteria,206,14,35,140,14
+Cafeteria,207,15,35,200,8
+Cafeteria,208,16,43,53,4
+Cafeteria,209,17,15,190,11
+Cafeteria,210,18,45,199,13
+Cafeteria,211,19,52,220,24
+Cafeteria,212,20,68,199,31
+Cafeteria,213,21,35,197,2
+Cafeteria,214,22,26,94,15
+Cafeteria,215,23,42,77,19
+Cafeteria,216,0,14,178,11
+Cafeteria,217,1,31,79,18
+Cafeteria,218,2,26,187,20
+Cafeteria,219,3,26,163,14
+Cafeteria,220,4,46,173,9
+Cafeteria,221,5,31,167,16
+Cafeteria,222,6,47,57,17
+Cafeteria,223,7,17,116,4
+Cafeteria,224,8,34,106,9
+Cafeteria,225,9,30,155,13
+Cafeteria,226,10,43,187,2
+Cafeteria,227,11,26,113,11
+Cafeteria,228,12,35,252,27
+Cafeteria,229,13,34,291,22
+Cafeteria,230,14,40,130,13
+Cafeteria,231,15,23,196,10
+Cafeteria,232,16,21,98,17
+Cafeteria,233,17,22,110,9
+Cafeteria,234,18,26,102,9
+Cafeteria,235,19,42,213,28
+Cafeteria,236,20,39,177,20
+Cafeteria,237,21,15,176,2
+Cafeteria,238,22,44,60,17
+Cafeteria,239,23,33,130,17
+Cafeteria,240,0,46,120,17
+Cafeteria,241,1,21,180,10
+Cafeteria,242,2,35,106,20
+Cafeteria,243,3,18,63,18
+Cafeteria,244,4,37,172,19
+Cafeteria,245,5,12,178,13
+Cafeteria,246,6,35,94,16
+Cafeteria,247,7,17,182,16
+Cafeteria,248,8,30,52,2
+Cafeteria,249,9,23,147,20
+Cafeteria,250,10,16,133,13
+Cafeteria,251,11,49,116,7
+Cafeteria,252,12,65,217,24
+Cafeteria,253,13,47,270,27
+Cafeteria,254,14,33,97,17
+Cafeteria,255,15,37,103,15
+Cafeteria,256,16,33,143,14
+Cafeteria,257,17,27,165,7
+Cafeteria,258,18,46,83,20
+Cafeteria,259,19,44,175,25
+Cafeteria,260,20,45,292,30
+Cafeteria,261,21,34,100,6
+Cafeteria,262,22,19,171,2
+Cafeteria,263,23,21,157,17
+Cafeteria,264,0,18,182,19
+Cafeteria,265,1,30,174,11
+Cafeteria,266,2,26,193,20
+Cafeteria,267,3,13,151,5
+Cafeteria,268,4,20,65,8
+Cafeteria,269,5,26,171,5
+Cafeteria,270,6,38,135,10
+Cafeteria,271,7,33,142,19
+Cafeteria,272,8,45,115,13
+Cafeteria,273,9,11,155,5
+Cafeteria,274,10,32,100,20
+Cafeteria,275,11,46,187,7
+Cafeteria,276,12,48,240,27
+Cafeteria,277,13,62,274,31
+Cafeteria,278,14,15,147,11
+Cafeteria,279,15,39,87,7
+Cafeteria,280,16,50,136,15
+Cafeteria,281,17,50,196,14
+Cafeteria,282,18,14,70,7
+Cafeteria,283,19,51,208,27
+Cafeteria,284,20,50,224,25
+Cafeteria,285,21,48,151,10
+Cafeteria,286,22,38,142,20
+Cafeteria,287,23,43,165,15
+Cafeteria,288,0,20,97,2
+Cafeteria,289,1,18,110,10
+Cafeteria,290,2,15,103,7
+Cafeteria,291,3,35,76,5
+Cafeteria,292,4,14,171,19
+Cafeteria,293,5,13,56,14
+Cafeteria,294,6,43,71,5
+Cafeteria,295,7,26,89,4
+Cafeteria,296,8,34,129,9
+Cafeteria,297,9,25,122,16
+Cafeteria,298,10,50,82,6
+Cafeteria,299,11,43,93,2
+Cafeteria,300,12,32,241,27
+Cafeteria,301,13,60,269,34
+Cafeteria,302,14,27,190,16
+Cafeteria,303,15,18,188,7
+Cafeteria,304,16,47,166,20
+Cafeteria,305,17,37,184,19
+Cafeteria,306,18,29,138,17
+Cafeteria,307,19,64,208,19
+Cafeteria,308,20,58,228,28
+Cafeteria,309,21,36,116,6
+Cafeteria,310,22,29,52,2
+Cafeteria,311,23,43,84,13
+Cafeteria,312,0,28,170,19
+Cafeteria,313,1,10,175,17
+Cafeteria,314,2,29,52,15
+Cafeteria,315,3,28,109,2
+Cafeteria,316,4,45,145,8
+Cafeteria,317,5,36,193,15
+Cafeteria,318,6,35,113,7
+Cafeteria,319,7,34,146,9
+Cafeteria,320,8,26,70,15
+Cafeteria,321,9,50,111,18
+Cafeteria,322,10,49,119,11
+Cafeteria,323,11,44,118,15
+Cafeteria,324,12,42,167,22
+Cafeteria,325,13,38,224,20
+Cafeteria,326,14,50,166,16
+Cafeteria,327,15,27,175,8
+Cafeteria,328,16,30,54,6
+Cafeteria,329,17,13,186,2
+Cafeteria,330,18,21,76,11
+Cafeteria,331,19,47,182,31
+Cafeteria,332,20,30,209,19
+Cafeteria,333,21,19,53,17
+Cafeteria,334,22,23,137,15
+Cafeteria,335,23,29,177,13
+Cafeteria,336,0,39,58,12
+Cafeteria,337,1,15,87,3
+Cafeteria,338,2,27,150,4
+Cafeteria,339,3,44,170,7
+Cafeteria,340,4,22,114,14
+Cafeteria,341,5,10,81,9
+Cafeteria,342,6,34,163,9
+Cafeteria,343,7,12,100,16
+Cafeteria,344,8,16,183,8
+Cafeteria,345,9,40,149,11
+Cafeteria,346,10,30,90,3
+Cafeteria,347,11,45,183,5
+Cafeteria,348,12,46,273,26
+Cafeteria,349,13,42,242,18
+Cafeteria,350,14,23,78,9
+Cafeteria,351,15,50,161,12
+Cafeteria,352,16,10,92,10
+Cafeteria,353,17,47,80,14
+Cafeteria,354,18,25,52,3
+Cafeteria,355,19,67,271,21
+Cafeteria,356,20,53,172,24
+Cafeteria,357,21,20,177,4
+Cafeteria,358,22,49,136,3
+Cafeteria,359,23,13,141,6
+Cafeteria,360,0,44,77,6
+Cafeteria,361,1,41,109,12
+Cafeteria,362,2,45,138,16
+Cafeteria,363,3,22,55,14
+Cafeteria,364,4,32,84,10
+Cafeteria,365,5,12,174,16
+Cafeteria,366,6,45,125,19
+Cafeteria,367,7,41,98,20
+Cafeteria,368,8,21,189,13
+Cafeteria,369,9,30,169,10
+Cafeteria,370,10,48,191,7
+Cafeteria,371,11,14,185,6
+Cafeteria,372,12,58,225,25
+Cafeteria,373,13,64,243,31
+Cafeteria,374,14,10,179,14
+Cafeteria,375,15,21,54,13
+Cafeteria,376,16,49,111,12
+Cafeteria,377,17,14,187,14
+Cafeteria,378,18,22,184,17
+Cafeteria,379,19,65,189,26
+Cafeteria,380,20,50,254,27
+Cafeteria,381,21,17,74,18
+Cafeteria,382,22,14,61,6
+Cafeteria,383,23,21,58,8
+Cafeteria,384,0,16,174,8
+Cafeteria,385,1,16,58,20
+Cafeteria,386,2,34,175,18
+Cafeteria,387,3,49,115,3
+Cafeteria,388,4,33,106,4
+Cafeteria,389,5,10,103,17
+Cafeteria,390,6,15,169,3
+Cafeteria,391,7,33,192,15
+Cafeteria,392,8,33,64,10
+Cafeteria,393,9,43,60,4
+Cafeteria,394,10,29,69,8
+Cafeteria,395,11,43,74,5
+Cafeteria,396,12,44,286,29
+Cafeteria,397,13,42,199,33
+Cafeteria,398,14,25,195,7
+Cafeteria,399,15,45,192,15
+Cafeteria,400,16,16,197,13
+Cafeteria,401,17,39,159,5
+Cafeteria,402,18,20,96,19
+Cafeteria,403,19,55,279,27
+Cafeteria,404,20,40,286,31
+Cafeteria,405,21,32,130,19
+Cafeteria,406,22,30,145,15
+Cafeteria,407,23,50,160,12
+Cafeteria,408,0,48,111,20
+Cafeteria,409,1,44,104,14
+Cafeteria,410,2,45,115,13
+Cafeteria,411,3,38,164,14
+Cafeteria,412,4,10,58,11
+Cafeteria,413,5,48,54,18
+Cafeteria,414,6,18,127,2
+Cafeteria,415,7,29,106,8
+Cafeteria,416,8,30,55,10
+Cafeteria,417,9,45,180,19
+Cafeteria,418,10,46,196,6
+Cafeteria,419,11,16,59,16
+Cafeteria,420,12,52,189,21
+Cafeteria,421,13,46,243,35
+Cafeteria,422,14,25,109,10
+Cafeteria,423,15,29,73,20
+Cafeteria,424,16,35,195,8
+Cafeteria,425,17,14,133,17
+Cafeteria,426,18,21,174,20
+Cafeteria,427,19,36,226,18
+Cafeteria,428,20,66,247,19
+Cafeteria,429,21,13,135,13
+Cafeteria,430,22,37,156,5
+Cafeteria,431,23,24,52,14
+Cafeteria,432,0,13,128,18
+Cafeteria,433,1,12,131,19
+Cafeteria,434,2,46,88,12
+Cafeteria,435,3,42,106,6
+Cafeteria,436,4,13,150,16
+Cafeteria,437,5,48,197,18
+Cafeteria,438,6,15,106,15
+Cafeteria,439,7,28,150,6
+Cafeteria,440,8,18,136,4
+Cafeteria,441,9,40,196,3
+Cafeteria,442,10,45,152,10
+Cafeteria,443,11,15,152,18
+Cafeteria,444,12,57,183,21
+Cafeteria,445,13,60,293,23
+Cafeteria,446,14,41,151,20
+Cafeteria,447,15,22,193,18
+Cafeteria,448,16,25,112,4
+Cafeteria,449,17,27,160,12
+Cafeteria,450,18,46,72,5
+Cafeteria,451,19,56,258,28
+Cafeteria,452,20,52,198,27
+Cafeteria,453,21,32,56,11
+Cafeteria,454,22,20,139,16
+Cafeteria,455,23,49,87,16
+Cafeteria,456,0,12,109,8
+Cafeteria,457,1,33,89,4
+Cafeteria,458,2,17,63,9
+Cafeteria,459,3,49,87,11
+Cafeteria,460,4,10,137,5
+Cafeteria,461,5,29,165,17
+Cafeteria,462,6,11,134,8
+Cafeteria,463,7,44,104,8
+Cafeteria,464,8,44,183,10
+Cafeteria,465,9,45,173,6
+Cafeteria,466,10,11,146,20
+Cafeteria,467,11,43,61,10
+Cafeteria,468,12,40,165,26
+Cafeteria,469,13,42,219,18
+Cafeteria,470,14,39,52,4
+Cafeteria,471,15,34,119,13
+Cafeteria,472,16,16,54,11
+Cafeteria,473,17,34,109,14
+Cafeteria,474,18,42,75,12
+Cafeteria,475,19,61,286,19
+Cafeteria,476,20,41,200,33
+Cafeteria,477,21,39,193,2
+Cafeteria,478,22,12,113,18
+Cafeteria,479,23,29,135,17
+Cafeteria,480,0,35,90,2
+Cafeteria,481,1,32,140,13
+Cafeteria,482,2,50,127,9
+Cafeteria,483,3,42,120,3
+Cafeteria,484,4,50,115,14
+Cafeteria,485,5,11,192,10
+Cafeteria,486,6,24,88,12
+Cafeteria,487,7,35,85,4
+Cafeteria,488,8,34,183,9
+Cafeteria,489,9,36,111,20
+Cafeteria,490,10,19,159,11
+Cafeteria,491,11,48,134,16
+Cafeteria,492,12,64,183,23
+Cafeteria,493,13,38,298,34
+Cafeteria,494,14,22,85,11
+Cafeteria,495,15,43,84,15
+Cafeteria,496,16,19,194,7
+Cafeteria,497,17,30,67,19
+Cafeteria,498,18,44,80,7
+Cafeteria,499,19,50,187,17
+Cafeteria,500,20,50,255,30
+Cafeteria,501,21,29,163,10
+Cafeteria,502,22,19,98,5
+Cafeteria,503,23,18,97,2
+Cafeteria,504,0,49,118,20
+Cafeteria,505,1,49,109,9
+Cafeteria,506,2,24,56,13
+Cafeteria,507,3,15,172,6
+Cafeteria,508,4,42,170,13
+Cafeteria,509,5,21,149,17
+Cafeteria,510,6,40,85,7
+Cafeteria,511,7,22,107,3
+Cafeteria,512,8,36,53,10
+Cafeteria,513,9,36,106,8
+Cafeteria,514,10,23,66,7
+Cafeteria,515,11,38,175,12
+Cafeteria,516,12,59,213,30
+Cafeteria,517,13,55,160,29
+Cafeteria,518,14,30,150,20
+Cafeteria,519,15,48,187,18
+Cafeteria,520,16,12,183,5
+Cafeteria,521,17,38,166,3
+Cafeteria,522,18,25,182,19
+Cafeteria,523,19,55,160,34
+Cafeteria,524,20,54,282,18
+Cafeteria,525,21,22,124,16
+Cafeteria,526,22,35,127,11
+Cafeteria,527,23,39,92,15
+Cafeteria,528,0,28,63,18
+Cafeteria,529,1,19,168,16
+Cafeteria,530,2,15,178,5
+Cafeteria,531,3,21,199,19
+Cafeteria,532,4,18,150,15
+Cafeteria,533,5,30,165,2
+Cafeteria,534,6,21,166,20
+Cafeteria,535,7,22,166,4
+Cafeteria,536,8,26,132,7
+Cafeteria,537,9,17,73,5
+Cafeteria,538,10,38,142,4
+Cafeteria,539,11,43,148,18
+Cafeteria,540,12,69,190,29
+Cafeteria,541,13,65,247,18
+Cafeteria,542,14,20,135,20
+Cafeteria,543,15,19,91,6
+Cafeteria,544,16,21,63,15
+Cafeteria,545,17,29,129,16
+Cafeteria,546,18,28,96,5
+Cafeteria,547,19,38,201,17
+Cafeteria,548,20,69,214,17
+Cafeteria,549,21,39,177,17
+Cafeteria,550,22,44,51,17
+Cafeteria,551,23,25,105,20
+Cafeteria,552,0,40,166,15
+Cafeteria,553,1,38,70,2
+Cafeteria,554,2,25,190,10
+Cafeteria,555,3,49,192,8
+Cafeteria,556,4,13,97,6
+Cafeteria,557,5,13,139,3
+Cafeteria,558,6,19,58,20
+Cafeteria,559,7,48,126,12
+Cafeteria,560,8,15,62,5
+Cafeteria,561,9,36,95,7
+Cafeteria,562,10,28,196,19
+Cafeteria,563,11,21,166,20
+Cafeteria,564,12,53,159,19
+Cafeteria,565,13,49,232,28
+Cafeteria,566,14,34,67,15
+Cafeteria,567,15,45,66,11
+Cafeteria,568,16,40,84,5
+Cafeteria,569,17,27,134,18
+Cafeteria,570,18,36,184,8
+Cafeteria,571,19,43,164,20
+Cafeteria,572,20,66,285,19
+Cafeteria,573,21,40,123,15
+Cafeteria,574,22,48,131,10
+Cafeteria,575,23,43,197,13
+Cafeteria,576,0,18,194,17
+Cafeteria,577,1,43,177,17
+Cafeteria,578,2,21,109,11
+Cafeteria,579,3,22,50,5
+Cafeteria,580,4,11,169,5
+Cafeteria,581,5,23,156,15
+Cafeteria,582,6,12,135,13
+Cafeteria,583,7,45,104,2
+Cafeteria,584,8,50,101,11
+Cafeteria,585,9,26,67,11
+Cafeteria,586,10,29,179,19
+Cafeteria,587,11,30,51,5
+Cafeteria,588,12,51,237,29
+Cafeteria,589,13,66,157,22
+Cafeteria,590,14,22,134,12
+Cafeteria,591,15,40,171,3
+Cafeteria,592,16,18,173,6
+Cafeteria,593,17,50,167,19
+Cafeteria,594,18,31,168,15
+Cafeteria,595,19,33,283,26
+Cafeteria,596,20,66,230,34
+Cafeteria,597,21,44,54,8
+Cafeteria,598,22,46,134,13
+Cafeteria,599,23,14,88,10
+Cafeteria,600,0,11,136,14
+Cafeteria,601,1,50,186,7
+Cafeteria,602,2,46,149,7
+Cafeteria,603,3,48,79,11
+Cafeteria,604,4,30,58,10
+Cafeteria,605,5,36,72,17
+Cafeteria,606,6,25,145,16
+Cafeteria,607,7,29,105,18
+Cafeteria,608,8,29,94,5
+Cafeteria,609,9,33,59,8
+Cafeteria,610,10,15,163,18
+Cafeteria,611,11,11,173,18
+Cafeteria,612,12,39,198,27
+Cafeteria,613,13,60,284,26
+Cafeteria,614,14,30,86,5
+Cafeteria,615,15,43,83,8
+Cafeteria,616,16,12,167,14
+Cafeteria,617,17,43,79,2
+Cafeteria,618,18,29,61,4
+Cafeteria,619,19,51,269,18
+Cafeteria,620,20,36,283,26
+Cafeteria,621,21,11,197,11
+Cafeteria,622,22,50,103,12
+Cafeteria,623,23,22,99,11
+Cafeteria,624,0,27,186,12
+Cafeteria,625,1,38,80,10
+Cafeteria,626,2,19,90,10
+Cafeteria,627,3,17,53,19
+Cafeteria,628,4,42,76,8
+Cafeteria,629,5,44,139,19
+Cafeteria,630,6,30,119,6
+Cafeteria,631,7,28,196,9
+Cafeteria,632,8,20,68,11
+Cafeteria,633,9,49,136,19
+Cafeteria,634,10,38,62,6
+Cafeteria,635,11,11,170,3
+Cafeteria,636,12,36,248,18
+Cafeteria,637,13,35,259,29
+Cafeteria,638,14,21,164,13
+Cafeteria,639,15,29,135,8
+Cafeteria,640,16,44,70,16
+Cafeteria,641,17,46,83,4
+Cafeteria,642,18,39,74,16
+Cafeteria,643,19,49,269,32
+Cafeteria,644,20,44,207,21
+Cafeteria,645,21,49,116,13
+Cafeteria,646,22,35,96,12
+Cafeteria,647,23,30,166,17
+Cafeteria,648,0,11,66,17
+Cafeteria,649,1,17,139,17
+Cafeteria,650,2,39,93,11
+Cafeteria,651,3,32,197,6
+Cafeteria,652,4,42,76,14
+Cafeteria,653,5,16,133,19
+Cafeteria,654,6,14,127,19
+Cafeteria,655,7,39,152,20
+Cafeteria,656,8,36,111,9
+Cafeteria,657,9,45,90,17
+Cafeteria,658,10,34,66,12
+Cafeteria,659,11,23,160,15
+Cafeteria,660,12,66,237,34
+Cafeteria,661,13,45,194,19
+Cafeteria,662,14,46,174,5
+Cafeteria,663,15,47,168,12
+Cafeteria,664,16,45,74,16
+Cafeteria,665,17,21,128,14
+Cafeteria,666,18,14,77,14
+Cafeteria,667,19,50,276,18
+Cafeteria,668,20,35,205,21
+Cafeteria,669,21,47,50,6
+Cafeteria,670,22,19,165,19
+Cafeteria,671,23,28,149,20
+Cafeteria,672,0,38,100,8
+Cafeteria,673,1,30,126,20
+Cafeteria,674,2,29,161,13
+Cafeteria,675,3,15,199,2
+Cafeteria,676,4,49,180,14
+Cafeteria,677,5,18,125,3
+Cafeteria,678,6,33,190,3
+Cafeteria,679,7,10,193,13
+Cafeteria,680,8,17,122,2
+Cafeteria,681,9,25,160,20
+Cafeteria,682,10,35,131,14
+Cafeteria,683,11,35,147,15
+Cafeteria,684,12,64,204,22
+Cafeteria,685,13,60,185,23
+Cafeteria,686,14,45,148,13
+Cafeteria,687,15,36,89,11
+Cafeteria,688,16,18,84,2
+Cafeteria,689,17,14,54,6
+Cafeteria,690,18,41,161,6
+Cafeteria,691,19,35,185,30
+Cafeteria,692,20,59,258,22
+Cafeteria,693,21,39,180,15
+Cafeteria,694,22,45,165,14
+Cafeteria,695,23,32,107,7
+Cafeteria,696,0,37,51,20
+Cafeteria,697,1,41,110,18
+Cafeteria,698,2,27,155,19
+Cafeteria,699,3,46,143,3
+Cafeteria,700,4,12,195,17
+Cafeteria,701,5,33,78,20
+Cafeteria,702,6,40,70,6
+Cafeteria,703,7,43,121,16
+Cafeteria,704,8,43,70,18
+Cafeteria,705,9,49,72,9
+Cafeteria,706,10,40,69,19
+Cafeteria,707,11,47,129,3
+Cafeteria,708,12,51,286,17
+Cafeteria,709,13,60,266,33
+Cafeteria,710,14,40,196,12
+Cafeteria,711,15,36,140,11
+Cafeteria,712,16,28,92,3
+Cafeteria,713,17,48,127,20
+Cafeteria,714,18,26,65,17
+Cafeteria,715,19,67,193,35
+Cafeteria,716,20,33,224,17
+Cafeteria,717,21,28,174,4
+Cafeteria,718,22,18,179,4
+Cafeteria,719,23,27,114,6

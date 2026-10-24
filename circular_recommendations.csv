@@ -1,0 +1,25 @@
+building_id,resource,recommendation,estimated_saving,unit,assumption
+B01,electricity,Optimize lighting and HVAC schedules,6577.66,kWh,10% reduction scenario
+B01,water,Inspect leaks and optimize water usage,91489.6,litres,10% reduction scenario
+B01,waste,"Improve segregation, recycling and composting",509.62,kg,15% landfill reduction scenario
+B02,electricity,Optimize lighting and HVAC schedules,5351.3,kWh,10% reduction scenario
+B02,water,Inspect leaks and optimize water usage,69029.3,litres,10% reduction scenario
+B02,waste,"Improve segregation, recycling and composting",373.74,kg,15% landfill reduction scenario
+B03,electricity,Optimize lighting and HVAC schedules,4579.14,kWh,10% reduction scenario
+B03,water,Inspect leaks and optimize water usage,24871.3,litres,10% reduction scenario
+B03,waste,"Improve segregation, recycling and composting",91.93,kg,15% landfill reduction scenario
+B04,electricity,Optimize lighting and HVAC schedules,7067.28,kWh,10% reduction scenario
+B04,water,Inspect leaks and optimize water usage,33968.9,litres,10% reduction scenario
+B04,waste,"Improve segregation, recycling and composting",190.71,kg,15% landfill reduction scenario
+B05,electricity,Optimize lighting and HVAC schedules,23355.31,kWh,10% reduction scenario
+B05,water,Inspect leaks and optimize water usage,884718.4,litres,10% reduction scenario
+B05,waste,"Improve segregation, recycling and composting",1767.09,kg,15% landfill reduction scenario
+B06,electricity,Optimize lighting and HVAC schedules,17974.04,kWh,10% reduction scenario
+B06,water,Inspect leaks and optimize water usage,713902.4,litres,10% reduction scenario
+B06,waste,"Improve segregation, recycling and composting",941.23,kg,15% landfill reduction scenario
+B07,electricity,Optimize lighting and HVAC schedules,7315.71,kWh,10% reduction scenario
+B07,water,Inspect leaks and optimize water usage,251738.1,litres,10% reduction scenario
+B07,waste,"Improve segregation, recycling and composting",1286.61,kg,15% landfill reduction scenario
+B08,electricity,Optimize lighting and HVAC schedules,2876.42,kWh,10% reduction scenario
+B08,water,Inspect leaks and optimize water usage,26425.9,litres,10% reduction scenario
+B08,waste,"Improve segregation, recycling and composting",139.97,kg,15% landfill reduction scenario

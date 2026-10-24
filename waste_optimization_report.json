@@ -1,0 +1,85 @@
+{
+    "total_samples": 5723,
+    "training_samples": 4582,
+    "validation_samples": 1141,
+    "best_configuration": {
+        "k": 7,
+        "weighted": true,
+        "accuracy_pct": 84.14
+    },
+    "average_optimization_time_ms": 5.062,
+    "total_optimization_seconds": 5.78,
+    "all_results": [
+        {
+            "k": 1,
+            "weighted": false,
+            "accuracy_pct": 79.4
+        },
+        {
+            "k": 1,
+            "weighted": true,
+            "accuracy_pct": 79.4
+        },
+        {
+            "k": 3,
+            "weighted": false,
+            "accuracy_pct": 82.03
+        },
+        {
+            "k": 3,
+            "weighted": true,
+            "accuracy_pct": 82.21
+        },
+        {
+            "k": 5,
+            "weighted": false,
+            "accuracy_pct": 83.35
+        },
+        {
+            "k": 5,
+            "weighted": true,
+            "accuracy_pct": 83.52
+        },
+        {
+            "k": 7,
+            "weighted": false,
+            "accuracy_pct": 83.79
+        },
+        {
+            "k": 7,
+            "weighted": true,
+            "accuracy_pct": 84.14
+        },
+        {
+            "k": 9,
+            "weighted": false,
+            "accuracy_pct": 83.61
+        },
+        {
+            "k": 9,
+            "weighted": true,
+            "accuracy_pct": 83.44
+        },
+        {
+            "k": 11,
+            "weighted": false,
+            "accuracy_pct": 83.26
+        },
+        {
+            "k": 11,
+            "weighted": true,
+            "accuracy_pct": 83.61
+        },
+        {
+            "k": 15,
+            "weighted": false,
+            "accuracy_pct": 83.79
+        },
+        {
+            "k": 15,
+            "weighted": true,
+            "accuracy_pct": 83.61
+        }
+    ],
+    "notes": "Accuracy is from a validation split used for model selection. An independent test is still required. Timing includes distance calculations and evaluation of all configurations; it is not a dedicated edge-device benchmark."
+}

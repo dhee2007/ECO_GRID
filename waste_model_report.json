@@ -1,0 +1,33 @@
+{
+    "model": "Pure Python KNN",
+    "accuracy_percent": 83.41,
+    "training_records": 4578,
+    "testing_records": 1145,
+    "category_results": {
+        "ewaste": {
+            "correct": 39,
+            "total": 65
+        },
+        "food_organic": {
+            "correct": 309,
+            "total": 334
+        },
+        "glass": {
+            "correct": 38,
+            "total": 59
+        },
+        "metal": {
+            "correct": 103,
+            "total": 109
+        },
+        "paper_cardboard": {
+            "correct": 222,
+            "total": 266
+        },
+        "plastic": {
+            "correct": 244,
+            "total": 312
+        }
+    },
+    "evaluation_method": "Stratified 80/20 holdout"
+}

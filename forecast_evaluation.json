@@ -1,0 +1,82 @@
+{
+  "B01": {
+    "electricity_kwh": {
+      "6h_mae": 5.89,
+      "12h_mae": 5.916
+    },
+    "water_litres": {
+      "6h_mae": 155.141,
+      "12h_mae": 156.519
+    }
+  },
+  "B02": {
+    "electricity_kwh": {
+      "6h_mae": 5.193,
+      "12h_mae": 5.196
+    },
+    "water_litres": {
+      "6h_mae": 108.554,
+      "12h_mae": 109.178
+    }
+  },
+  "B03": {
+    "electricity_kwh": {
+      "6h_mae": 3.21,
+      "12h_mae": 3.218
+    },
+    "water_litres": {
+      "6h_mae": 49.893,
+      "12h_mae": 50.316
+    }
+  },
+  "B04": {
+    "electricity_kwh": {
+      "6h_mae": 3.361,
+      "12h_mae": 3.379
+    },
+    "water_litres": {
+      "6h_mae": 55.324,
+      "12h_mae": 55.204
+    }
+  },
+  "B05": {
+    "electricity_kwh": {
+      "6h_mae": 9.021,
+      "12h_mae": 9.073
+    },
+    "water_litres": {
+      "6h_mae": 435.688,
+      "12h_mae": 433.988
+    }
+  },
+  "B06": {
+    "electricity_kwh": {
+      "6h_mae": 6.718,
+      "12h_mae": 6.696
+    },
+    "water_litres": {
+      "6h_mae": 282.441,
+      "12h_mae": 283.376
+    }
+  },
+  "B07": {
+    "electricity_kwh": {
+      "6h_mae": 2.645,
+      "12h_mae": 2.64
+    },
+    "water_litres": {
+      "6h_mae": 138.533,
+      "12h_mae": 137.372
+    }
+  },
+  "B08": {
+    "electricity_kwh": {
+      "6h_mae": 3.63,
+      "12h_mae": 3.644
+    },
+    "water_litres": {
+      "6h_mae": 44.109,
+      "12h_mae": 44.464
+    }
+  }
+}

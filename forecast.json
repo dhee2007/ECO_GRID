@@ -1,0 +1,290 @@
+[
+    {
+        "building": "Academic Block",
+        "hours_ahead": 1,
+        "time_of_day": 0,
+        "electricity": 31.17,
+        "water": 126.91,
+        "waste": 10.65
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 2,
+        "time_of_day": 1,
+        "electricity": 29.35,
+        "water": 121.3,
+        "waste": 12.61
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 3,
+        "time_of_day": 2,
+        "electricity": 32.0,
+        "water": 130.52,
+        "waste": 11.48
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 4,
+        "time_of_day": 3,
+        "electricity": 30.04,
+        "water": 114.0,
+        "waste": 9.96
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 5,
+        "time_of_day": 4,
+        "electricity": 31.26,
+        "water": 131.04,
+        "waste": 9.83
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 6,
+        "time_of_day": 5,
+        "electricity": 26.17,
+        "water": 127.78,
+        "waste": 10.3
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 7,
+        "time_of_day": 6,
+        "electricity": 31.48,
+        "water": 135.35,
+        "waste": 12.78
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 8,
+        "time_of_day": 7,
+        "electricity": 28.13,
+        "water": 132.48,
+        "waste": 11.78
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 9,
+        "time_of_day": 8,
+        "electricity": 24.74,
+        "water": 141.22,
+        "waste": 10.57
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 10,
+        "time_of_day": 9,
+        "electricity": 45.39,
+        "water": 137.13,
+        "waste": 11.87
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 11,
+        "time_of_day": 10,
+        "electricity": 49.43,
+        "water": 139.09,
+        "waste": 11.22
+    },
+    {
+        "building": "Academic Block",
+        "hours_ahead": 12,
+        "time_of_day": 11,
+        "electricity": 45.3,
+        "water": 124.35,
+        "waste": 12.0
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 1,
+        "time_of_day": 0,
+        "electricity": 34.87,
+        "water": 124.78,
+        "waste": 11.52
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 2,
+        "time_of_day": 1,
+        "electricity": 27.87,
+        "water": 117.22,
+        "waste": 11.61
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 3,
+        "time_of_day": 2,
+        "electricity": 27.35,
+        "water": 105.96,
+        "waste": 11.48
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 4,
+        "time_of_day": 3,
+        "electricity": 31.09,
+        "water": 121.26,
+        "waste": 11.7
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 5,
+        "time_of_day": 4,
+        "electricity": 28.74,
+        "water": 125.09,
+        "waste": 10.09
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 6,
+        "time_of_day": 5,
+        "electricity": 31.7,
+        "water": 112.96,
+        "waste": 12.78
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 7,
+        "time_of_day": 6,
+        "electricity": 32.22,
+        "water": 120.57,
+        "waste": 11.22
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 8,
+        "time_of_day": 7,
+        "electricity": 33.96,
+        "water": 125.74,
+        "waste": 10.83
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 9,
+        "time_of_day": 8,
+        "electricity": 27.7,
+        "water": 120.52,
+        "waste": 10.78
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 10,
+        "time_of_day": 9,
+        "electricity": 30.39,
+        "water": 121.39,
+        "waste": 10.74
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 11,
+        "time_of_day": 10,
+        "electricity": 29.96,
+        "water": 134.61,
+        "waste": 12.04
+    },
+    {
+        "building": "Hostel",
+        "hours_ahead": 12,
+        "time_of_day": 11,
+        "electricity": 27.7,
+        "water": 107.09,
+        "waste": 9.52
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 1,
+        "time_of_day": 0,
+        "electricity": 29.35,
+        "water": 128.96,
+        "waste": 11.91
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 2,
+        "time_of_day": 1,
+        "electricity": 26.13,
+        "water": 121.39,
+        "waste": 12.22
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 3,
+        "time_of_day": 2,
+        "electricity": 32.04,
+        "water": 141.13,
+        "waste": 12.26
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 4,
+        "time_of_day": 3,
+        "electricity": 30.04,
+        "water": 121.09,
+        "waste": 10.78
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 5,
+        "time_of_day": 4,
+        "electricity": 29.26,
+        "water": 119.35,
+        "waste": 10.57
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 6,
+        "time_of_day": 5,
+        "electricity": 26.57,
+        "water": 145.96,
+        "waste": 13.17
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 7,
+        "time_of_day": 6,
+        "electricity": 30.35,
+        "water": 120.13,
+        "waste": 9.61
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 8,
+        "time_of_day": 7,
+        "electricity": 30.09,
+        "water": 132.48,
+        "waste": 11.39
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 9,
+        "time_of_day": 8,
+        "electricity": 28.22,
+        "water": 113.78,
+        "waste": 9.48
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 10,
+        "time_of_day": 9,
+        "electricity": 32.57,
+        "water": 136.48,
+        "waste": 11.09
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 11,
+        "time_of_day": 10,
+        "electricity": 32.17,
+        "water": 136.35,
+        "waste": 10.83
+    },
+    {
+        "building": "Cafeteria",
+        "hours_ahead": 12,
+        "time_of_day": 11,
+        "electricity": 35.65,
+        "water": 127.04,
+        "waste": 11.74
+    }
+]

@@ -1,0 +1,11 @@
+event_id,date,building_id,hourly_records,electricity_fused,electricity_source,electricity_confidence,electricity_conflict,electricity_manual_observation,water_fused,water_source,water_confidence,water_conflict,water_manual_observation,waste_generated_kg,waste_source
+B01_2026-06-20,2026-06-20,B01,24,348.08,hourly_meter,high,False,,3331.0,hourly_meter,high,False,,12.5,daily_summary
+B01_2026-06-21,2026-06-21,B01,24,392.98,hourly_meter,high,False,,2108.0,hourly_meter,high,False,,12.5,daily_summary
+B01_2026-06-22,2026-06-22,B01,24,338.95,hourly_meter,high,False,,3233.0,hourly_meter,high,False,,13.4,daily_summary
+B01_2026-06-23,2026-06-23,B01,25,439.0,hourly_meter,high,False,,3696.0,hourly_meter,high,False,,11.0,daily_summary
+B01_2026-06-24,2026-06-24,B01,24,369.54,hourly_meter,high,False,372.7,3019.0,hourly_meter,high,False,,12.7,daily_summary
+B01_2026-06-25,2026-06-25,B01,24,371.2,hourly_meter,high,False,,3409.0,hourly_meter,high,False,,13.7,daily_summary
+B01_2026-06-26,2026-06-26,B01,24,375.76,hourly_meter,high,False,,3236.0,hourly_meter,high,False,,12.6,daily_summary
+B01_2026-06-27,2026-06-27,B01,24,376.94,hourly_meter,high,False,,1950.0,hourly_meter,high,False,,13.1,daily_summary
+B01_2026-06-28,2026-06-28,B01,24,362.69,hourly_meter,high,False,,3338.0,hourly_meter,high,False,,11.7,daily_summary
+B01_2026-06-29,2026-06-29,B01,24,367.04,hourly_meter,high,False,381.1,3503.0,hourly_meter,high,False,,14.4,daily_summary

@@ -1,0 +1,24 @@
+{
+    "model": "Weighted KNN",
+    "k": 7,
+    "training_records": 5723,
+    "test_records": 1601,
+    "predictions_generated": 1601,
+    "skipped_records": 0,
+    "mean_prediction_ms": 7.962,
+    "maximum_prediction_ms": 81.529,
+    "predicted_category_counts": {
+        "plastic": 423,
+        "food_organic": 494,
+        "paper_cardboard": 399,
+        "metal": 167,
+        "ewaste": 59,
+        "glass": 59
+    },
+    "prediction_quality_counts": {
+        "normal": 1436,
+        "lower_confidence": 165
+    },
+    "accuracy": null,
+    "note": "Test dataset contains no ground-truth category labels, so accuracy cannot be calculated. Missing sensor values were replaced using training medians. Imputed events are marked lower_confidence. Latency is measured on the development laptop, not on edge hardware."
+}

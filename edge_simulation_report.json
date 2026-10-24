@@ -1,0 +1,20 @@
+{
+    "device": "development_laptop",
+    "simulation_type": "sequential_event_inference",
+    "events_processed": 200,
+    "events_skipped": 0,
+    "mean_latency_ms": 6.941,
+    "p95_latency_ms": 16.245,
+    "max_latency_ms": 21.618,
+    "target_latency_ms": 2000,
+    "all_events_under_target": true,
+    "category_counts": {
+        "plastic": 50,
+        "food_organic": 55,
+        "paper_cardboard": 59,
+        "metal": 24,
+        "ewaste": 5,
+        "glass": 7
+    },
+    "note": "Laptop-based inference simulation. Not a benchmark on actual edge hardware. Training preparation time is excluded."
+}
