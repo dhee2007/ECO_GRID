@@ -4,7 +4,7 @@ from collections import defaultdict, Counter
 import streamlit as st
 import streamlit.components.v1 as components
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents
 DATA = ROOT / 'data'
 def load(name):
     with (DATA / (name+'.csv')).open(encoding='utf-8-sig', newline='') as f:
