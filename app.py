@@ -5,7 +5,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 ROOT = Path(__file__).resolve().parents
-DATA = ROOT / 'data'
+DATA = ROOT / "data"
 def load(name):
     with (DATA / (name+'.csv')).open(encoding='utf-8-sig', newline='') as f:
         return list(csv.DictReader(f))
